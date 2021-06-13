@@ -29,4 +29,21 @@ And it is guarded by a build constraint:
 //+build !wireinject
 ```
 
+## Basic Example
+
+* [basic](basic)
+
+## Interfaces
+
+Go takes an implementation-first approach:
+
+> Do not define interfaces before they are used: without a realistic example of
+> usage, it is too difficult to see whether an interface is even necessary, let
+> alone what methods it ought to contain.
+
+Also:
+
+* DI can be used to match an implementation to an interface
+* do not create a constructor, that returns an interface - even though wire uses standard Go type identity rules for matching.
+* interface binding should be put into the provider set
 
