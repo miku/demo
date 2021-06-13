@@ -47,3 +47,11 @@ Also:
 * do not create a constructor, that returns an interface - even though wire uses standard Go type identity rules for matching.
 * interface binding should be put into the provider set
 
+* [iface](iface)
+
+## Struct Fields
+
+Inject struct fields.
+
+* [structs](structs)
+
