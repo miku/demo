@@ -1,3 +1,8 @@
+//+build wireinject
+
+// Note: The build tag here must come before the package declaration; cf.
+// https://github.com/google/wire/issues/178#issuecomment-493633100,
+// https://github.com/google/wire/issues/178#issuecomment-543349470.
 package main
 
 import (
@@ -15,5 +20,5 @@ func initializeBar() *extra.Bar {
 
 func main() {
 	bar := initializeBar()
-	log.Printf("%#v", bar)
+	log.Printf("bar: %#v", bar)
 }
