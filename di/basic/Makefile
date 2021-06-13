@@ -1,9 +1,9 @@
 SHELL := /bin/bash
 GOFILES := $(shell find . -name "*.go")
 
-main: $(GOFILES)
-	go build -tags '!wireinject' -o $@,
-// https://github.com/google/wire/issues/117#issue-407026505
+main: $(GOFILES) wire
+	go build -tags '!wireinject' -o $@
+
 .PHONY: wire
 wire:
 	wire
@@ -17,5 +17,5 @@ ls-files:
 
 .PHONY: clean
 clean:
-	rm -f main
+	rm -f main wire_gen.go
 
