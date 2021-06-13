@@ -17,5 +17,8 @@ ls-files:
 
 .PHONY: clean
 clean:
-	rm -f main wire_gen.go
+	rm -f main
+
+clean-all: clean
+	rm -f wire_gen.go
 
