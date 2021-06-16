@@ -1,11 +1,13 @@
-// We cannot replace (or even assign) a variable of a supertype, e.g. "Task"
-// with a subtype, e.g. "Extract".
+// +build ignore
+//
 package main
 
 import (
 	"fmt"
 )
 
+// We cannot replace (or even assign) a variable of a supertype, e.g. "Task"
+// with a subtype, e.g. "Extract".
 type Task struct {
 	Name string
 }
