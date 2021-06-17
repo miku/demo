@@ -47,22 +47,24 @@ type Message struct {
 }
 
 // String just customizes the output.
-func (m Message) String() string {
+func (m *Message) String() string {
 	var (
 		yellow = color.New(color.FgYellow).SprintFunc()
 		red    = color.New(color.FgRed).SprintFunc()
 		green  = color.New(color.FgGreen).SprintFunc()
+		dot    string
 	)
 	switch m.Type {
 	case start:
-		return fmt.Sprintf("[%s % 6s] %s %s %+v", green("■"), m.Type, m.ID, m.T, m.Data)
+		dot = green("■")
 	case stop:
-		return fmt.Sprintf("[%s % 6s] %s %s %+v", red("■"), m.Type, m.ID, m.T, m.Data)
+		dot = red("■")
 	case mark:
-		return fmt.Sprintf("[%s % 6s] %s %s %+v", yellow("■"), m.Type, m.ID, m.T, m.Data)
+		dot = yellow("■")
 	default:
-		return ""
+		dot = "■"
 	}
+	return fmt.Sprintf("[%s % 6s] %s %s %+v", dot, m.Type, m.ID, m.T, m.Data)
 }
 
 // UnmarshalJSON will create a message find out the right type for the Data field by dummy unmarshaling.
@@ -113,7 +115,7 @@ func readStream(r io.Reader) error {
 		if err := json.Unmarshal(b, &msg); err != nil {
 			log.Fatal(err)
 		}
-		fmt.Println(msg)
+		fmt.Println(&msg)
 	}
 	return nil
 }
