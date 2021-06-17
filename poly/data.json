@@ -1,0 +1,1000 @@
+{"id": "OYAD", "t": "20210617230649", "type": "start", "data": {"pos": 399296}}
+{"id": "VJNE", "t": "20210617230649", "type": "stop", "data": {"pos": 628126, "reason": "S"}}
+{"id": "PGQS", "t": "20210617230649", "type": "mark", "data": {"pos": 616621, "color": 11}}
+{"id": "HFIR", "t": "20210617230649", "type": "start", "data": {"pos": 971628}}
+{"id": "HJGC", "t": "20210617230649", "type": "stop", "data": {"pos": 304334, "reason": "G"}}
+{"id": "RYJU", "t": "20210617230649", "type": "mark", "data": {"pos": 751887, "color": 8}}
+{"id": "HNFB", "t": "20210617230649", "type": "start", "data": {"pos": 299339}}
+{"id": "OPGF", "t": "20210617230649", "type": "stop", "data": {"pos": 175202, "reason": "S"}}
+{"id": "ASGA", "t": "20210617230649", "type": "mark", "data": {"pos": 576111, "color": 10}}
+{"id": "ZKXJ", "t": "20210617230649", "type": "start", "data": {"pos": 461954}}
+{"id": "EMCO", "t": "20210617230649", "type": "stop", "data": {"pos": 445754, "reason": "C"}}
+{"id": "UYBN", "t": "20210617230649", "type": "mark", "data": {"pos": 477906, "color": 16}}
+{"id": "UFNB", "t": "20210617230649", "type": "start", "data": {"pos": 255332}}
+{"id": "XEEF", "t": "20210617230649", "type": "stop", "data": {"pos": 631080, "reason": "F"}}
+{"id": "RDMT", "t": "20210617230649", "type": "mark", "data": {"pos": 191557, "color": 8}}
+{"id": "CXEJ", "t": "20210617230649", "type": "start", "data": {"pos": 620889}}
+{"id": "DDHH", "t": "20210617230649", "type": "stop", "data": {"pos": 88188, "reason": "Q"}}
+{"id": "LBWA", "t": "20210617230649", "type": "mark", "data": {"pos": 979252, "color": 8}}
+{"id": "VFXO", "t": "20210617230649", "type": "start", "data": {"pos": 529573}}
+{"id": "AYAM", "t": "20210617230649", "type": "stop", "data": {"pos": 234508, "reason": "T"}}
+{"id": "ZCMN", "t": "20210617230649", "type": "mark", "data": {"pos": 764407, "color": 15}}
+{"id": "OVTV", "t": "20210617230649", "type": "start", "data": {"pos": 838782}}
+{"id": "JVIC", "t": "20210617230649", "type": "stop", "data": {"pos": 398385, "reason": "G"}}
+{"id": "DNOR", "t": "20210617230649", "type": "mark", "data": {"pos": 34672, "color": 9}}
+{"id": "FROB", "t": "20210617230649", "type": "start", "data": {"pos": 763442}}
+{"id": "HRAO", "t": "20210617230649", "type": "stop", "data": {"pos": 621351, "reason": "C"}}
+{"id": "RFHD", "t": "20210617230649", "type": "mark", "data": {"pos": 348066, "color": 8}}
+{"id": "MKGP", "t": "20210617230649", "type": "start", "data": {"pos": 106960}}
+{"id": "BHPQ", "t": "20210617230649", "type": "stop", "data": {"pos": 555320, "reason": "F"}}
+{"id": "BTWW", "t": "20210617230649", "type": "mark", "data": {"pos": 794416, "color": 16}}
+{"id": "MBFA", "t": "20210617230649", "type": "start", "data": {"pos": 660609}}
+{"id": "PZMU", "t": "20210617230649", "type": "stop", "data": {"pos": 279119, "reason": "G"}}
+{"id": "QUGC", "t": "20210617230649", "type": "mark", "data": {"pos": 832168, "color": 1}}
+{"id": "HZMA", "t": "20210617230649", "type": "start", "data": {"pos": 17948}}
+{"id": "PZXL", "t": "20210617230649", "type": "stop", "data": {"pos": 525271, "reason": "O"}}
+{"id": "PNEL", "t": "20210617230649", "type": "mark", "data": {"pos": 982602, "color": 3}}
+{"id": "AMFW", "t": "20210617230649", "type": "start", "data": {"pos": 918361}}
+{"id": "VGNL", "t": "20210617230649", "type": "stop", "data": {"pos": 895594, "reason": "D"}}
+{"id": "EHHP", "t": "20210617230649", "type": "mark", "data": {"pos": 429117, "color": 2}}
+{"id": "MRGM", "t": "20210617230649", "type": "start", "data": {"pos": 209944}}
+{"id": "LQXL", "t": "20210617230649", "type": "stop", "data": {"pos": 735505, "reason": "G"}}
+{"id": "RVVY", "t": "20210617230649", "type": "mark", "data": {"pos": 470193, "color": 12}}
+{"id": "ICTQ", "t": "20210617230649", "type": "start", "data": {"pos": 679725}}
+{"id": "CRTG", "t": "20210617230649", "type": "stop", "data": {"pos": 503478, "reason": "C"}}
+{"id": "ULJB", "t": "20210617230649", "type": "mark", "data": {"pos": 196037, "color": 2}}
+{"id": "VJSM", "t": "20210617230649", "type": "start", "data": {"pos": 584801}}
+{"id": "XQGO", "t": "20210617230649", "type": "stop", "data": {"pos": 834872, "reason": "M"}}
+{"id": "ADTS", "t": "20210617230649", "type": "mark", "data": {"pos": 595273, "color": 11}}
+{"id": "RWLG", "t": "20210617230649", "type": "start", "data": {"pos": 43140}}
+{"id": "RMGE", "t": "20210617230649", "type": "stop", "data": {"pos": 829918, "reason": "Y"}}
+{"id": "ANCZ", "t": "20210617230649", "type": "mark", "data": {"pos": 13677, "color": 7}}
+{"id": "BCUD", "t": "20210617230649", "type": "start", "data": {"pos": 423187}}
+{"id": "QVHN", "t": "20210617230649", "type": "stop", "data": {"pos": 755384, "reason": "A"}}
+{"id": "FKVA", "t": "20210617230649", "type": "mark", "data": {"pos": 377196, "color": 3}}
+{"id": "GRLW", "t": "20210617230649", "type": "start", "data": {"pos": 693740}}
+{"id": "YVGM", "t": "20210617230649", "type": "stop", "data": {"pos": 963736, "reason": "O"}}
+{"id": "CAJF", "t": "20210617230649", "type": "mark", "data": {"pos": 154479, "color": 11}}
+{"id": "WMEJ", "t": "20210617230649", "type": "start", "data": {"pos": 774217}}
+{"id": "QQJD", "t": "20210617230649", "type": "stop", "data": {"pos": 529550, "reason": "R"}}
+{"id": "VZPQ", "t": "20210617230649", "type": "mark", "data": {"pos": 182050, "color": 1}}
+{"id": "GRSU", "t": "20210617230649", "type": "start", "data": {"pos": 996965}}
+{"id": "GYUF", "t": "20210617230649", "type": "stop", "data": {"pos": 968009, "reason": "N"}}
+{"id": "KAII", "t": "20210617230649", "type": "mark", "data": {"pos": 985237, "color": 2}}
+{"id": "ZJHO", "t": "20210617230649", "type": "start", "data": {"pos": 528928}}
+{"id": "TJEZ", "t": "20210617230649", "type": "stop", "data": {"pos": 70678, "reason": "N"}}
+{"id": "YSGE", "t": "20210617230649", "type": "mark", "data": {"pos": 505206, "color": 11}}
+{"id": "HLMZ", "t": "20210617230649", "type": "start", "data": {"pos": 272984}}
+{"id": "VRJN", "t": "20210617230649", "type": "stop", "data": {"pos": 614473, "reason": "L"}}
+{"id": "GCTD", "t": "20210617230649", "type": "mark", "data": {"pos": 329478, "color": 7}}
+{"id": "YIKR", "t": "20210617230649", "type": "start", "data": {"pos": 820943}}
+{"id": "OWZD", "t": "20210617230649", "type": "stop", "data": {"pos": 141492, "reason": "I"}}
+{"id": "GWTY", "t": "20210617230649", "type": "mark", "data": {"pos": 761715, "color": 12}}
+{"id": "ZVWQ", "t": "20210617230649", "type": "start", "data": {"pos": 652455}}
+{"id": "ZXVO", "t": "20210617230649", "type": "stop", "data": {"pos": 644065, "reason": "D"}}
+{"id": "LSOW", "t": "20210617230649", "type": "mark", "data": {"pos": 117778, "color": 16}}
+{"id": "KDYT", "t": "20210617230649", "type": "start", "data": {"pos": 909983}}
+{"id": "KMMN", "t": "20210617230649", "type": "stop", "data": {"pos": 579766, "reason": "Q"}}
+{"id": "ODXY", "t": "20210617230649", "type": "mark", "data": {"pos": 658746, "color": 16}}
+{"id": "YYMW", "t": "20210617230649", "type": "start", "data": {"pos": 591598}}
+{"id": "DTAT", "t": "20210617230649", "type": "stop", "data": {"pos": 942199, "reason": "J"}}
+{"id": "SDLY", "t": "20210617230649", "type": "mark", "data": {"pos": 106139, "color": 11}}
+{"id": "OTAO", "t": "20210617230649", "type": "start", "data": {"pos": 703476}}
+{"id": "GPWV", "t": "20210617230649", "type": "stop", "data": {"pos": 593877, "reason": "V"}}
+{"id": "XEDV", "t": "20210617230649", "type": "mark", "data": {"pos": 671563, "color": 15}}
+{"id": "EEOD", "t": "20210617230649", "type": "start", "data": {"pos": 238832}}
+{"id": "CLPH", "t": "20210617230649", "type": "stop", "data": {"pos": 616778, "reason": "E"}}
+{"id": "OVPM", "t": "20210617230649", "type": "mark", "data": {"pos": 711477, "color": 7}}
+{"id": "XBHD", "t": "20210617230649", "type": "start", "data": {"pos": 761902}}
+{"id": "OSWY", "t": "20210617230649", "type": "stop", "data": {"pos": 980382, "reason": "B"}}
+{"id": "MDAK", "t": "20210617230649", "type": "mark", "data": {"pos": 86446, "color": 3}}
+{"id": "BWGJ", "t": "20210617230649", "type": "start", "data": {"pos": 695082}}
+{"id": "XALH", "t": "20210617230649", "type": "stop", "data": {"pos": 998039, "reason": "B"}}
+{"id": "MDJZ", "t": "20210617230649", "type": "mark", "data": {"pos": 191450, "color": 7}}
+{"id": "SBPS", "t": "20210617230649", "type": "start", "data": {"pos": 733410}}
+{"id": "HJVM", "t": "20210617230649", "type": "stop", "data": {"pos": 15502, "reason": "G"}}
+{"id": "WZDM", "t": "20210617230649", "type": "mark", "data": {"pos": 202759, "color": 3}}
+{"id": "ILWT", "t": "20210617230649", "type": "start", "data": {"pos": 487580}}
+{"id": "AKHS", "t": "20210617230649", "type": "stop", "data": {"pos": 485071, "reason": "J"}}
+{"id": "VQNC", "t": "20210617230649", "type": "mark", "data": {"pos": 527971, "color": 0}}
+{"id": "MYAC", "t": "20210617230649", "type": "start", "data": {"pos": 534937}}
+{"id": "EOQK", "t": "20210617230649", "type": "stop", "data": {"pos": 366869, "reason": "K"}}
+{"id": "HFWI", "t": "20210617230649", "type": "mark", "data": {"pos": 386645, "color": 7}}
+{"id": "SLSM", "t": "20210617230649", "type": "start", "data": {"pos": 452628}}
+{"id": "EBGN", "t": "20210617230649", "type": "stop", "data": {"pos": 859954, "reason": "M"}}
+{"id": "HHZK", "t": "20210617230649", "type": "mark", "data": {"pos": 746578, "color": 5}}
+{"id": "ICPH", "t": "20210617230649", "type": "start", "data": {"pos": 869742}}
+{"id": "ORPZ", "t": "20210617230649", "type": "stop", "data": {"pos": 796167, "reason": "S"}}
+{"id": "MSMY", "t": "20210617230649", "type": "mark", "data": {"pos": 295503, "color": 8}}
+{"id": "WOFM", "t": "20210617230649", "type": "start", "data": {"pos": 401174}}
+{"id": "BUND", "t": "20210617230649", "type": "stop", "data": {"pos": 476476, "reason": "V"}}
+{"id": "UTPH", "t": "20210617230649", "type": "mark", "data": {"pos": 587666, "color": 6}}
+{"id": "VCSW", "t": "20210617230649", "type": "start", "data": {"pos": 361375}}
+{"id": "GWRK", "t": "20210617230649", "type": "stop", "data": {"pos": 835533, "reason": "V"}}
+{"id": "TNYU", "t": "20210617230649", "type": "mark", "data": {"pos": 541908, "color": 11}}
+{"id": "KLKU", "t": "20210617230649", "type": "start", "data": {"pos": 883200}}
+{"id": "HQRP", "t": "20210617230649", "type": "stop", "data": {"pos": 801273, "reason": "T"}}
+{"id": "ZMLF", "t": "20210617230649", "type": "mark", "data": {"pos": 575759, "color": 2}}
+{"id": "FGFE", "t": "20210617230649", "type": "start", "data": {"pos": 267990}}
+{"id": "EGTB", "t": "20210617230649", "type": "stop", "data": {"pos": 323923, "reason": "Z"}}
+{"id": "TFSS", "t": "20210617230649", "type": "mark", "data": {"pos": 678655, "color": 7}}
+{"id": "SBNE", "t": "20210617230649", "type": "start", "data": {"pos": 774533}}
+{"id": "WODD", "t": "20210617230649", "type": "stop", "data": {"pos": 243243, "reason": "L"}}
+{"id": "RKLP", "t": "20210617230649", "type": "mark", "data": {"pos": 816314, "color": 8}}
+{"id": "JLFO", "t": "20210617230649", "type": "start", "data": {"pos": 803870}}
+{"id": "SMNV", "t": "20210617230649", "type": "stop", "data": {"pos": 564703, "reason": "R"}}
+{"id": "SNUS", "t": "20210617230649", "type": "mark", "data": {"pos": 778155, "color": 2}}
+{"id": "CXUT", "t": "20210617230649", "type": "start", "data": {"pos": 638690}}
+{"id": "EQRN", "t": "20210617230649", "type": "stop", "data": {"pos": 942743, "reason": "H"}}
+{"id": "TPKZ", "t": "20210617230649", "type": "mark", "data": {"pos": 438853, "color": 1}}
+{"id": "FTCE", "t": "20210617230649", "type": "start", "data": {"pos": 764110}}
+{"id": "AULV", "t": "20210617230649", "type": "stop", "data": {"pos": 117066, "reason": "T"}}
+{"id": "AKPC", "t": "20210617230649", "type": "mark", "data": {"pos": 613210, "color": 8}}
+{"id": "KJWT", "t": "20210617230649", "type": "start", "data": {"pos": 657902}}
+{"id": "OIKE", "t": "20210617230649", "type": "stop", "data": {"pos": 400848, "reason": "Q"}}
+{"id": "WYHD", "t": "20210617230649", "type": "mark", "data": {"pos": 742685, "color": 14}}
+{"id": "XLIQ", "t": "20210617230649", "type": "start", "data": {"pos": 67000}}
+{"id": "WNPI", "t": "20210617230649", "type": "stop", "data": {"pos": 227980, "reason": "B"}}
+{"id": "FPRM", "t": "20210617230649", "type": "mark", "data": {"pos": 424333, "color": 2}}
+{"id": "RPVM", "t": "20210617230649", "type": "start", "data": {"pos": 824268}}
+{"id": "FUKL", "t": "20210617230649", "type": "stop", "data": {"pos": 793724, "reason": "W"}}
+{"id": "UAZD", "t": "20210617230649", "type": "mark", "data": {"pos": 991744, "color": 5}}
+{"id": "TQHU", "t": "20210617230649", "type": "start", "data": {"pos": 787455}}
+{"id": "GHVF", "t": "20210617230649", "type": "stop", "data": {"pos": 371163, "reason": "X"}}
+{"id": "JIRX", "t": "20210617230649", "type": "mark", "data": {"pos": 603978, "color": 6}}
+{"id": "LWJO", "t": "20210617230649", "type": "start", "data": {"pos": 900994}}
+{"id": "PUXF", "t": "20210617230649", "type": "stop", "data": {"pos": 989996, "reason": "M"}}
+{"id": "NIJH", "t": "20210617230649", "type": "mark", "data": {"pos": 871352, "color": 0}}
+{"id": "HKMH", "t": "20210617230649", "type": "start", "data": {"pos": 549640}}
+{"id": "PMDB", "t": "20210617230649", "type": "stop", "data": {"pos": 196711, "reason": "G"}}
+{"id": "LSFN", "t": "20210617230649", "type": "mark", "data": {"pos": 77606, "color": 11}}
+{"id": "QGXD", "t": "20210617230649", "type": "start", "data": {"pos": 846590}}
+{"id": "KANK", "t": "20210617230649", "type": "stop", "data": {"pos": 879442, "reason": "R"}}
+{"id": "HEEI", "t": "20210617230649", "type": "mark", "data": {"pos": 49503, "color": 1}}
+{"id": "ZZGY", "t": "20210617230649", "type": "start", "data": {"pos": 387823}}
+{"id": "HVJJ", "t": "20210617230649", "type": "stop", "data": {"pos": 625268, "reason": "A"}}
+{"id": "JEUP", "t": "20210617230649", "type": "mark", "data": {"pos": 253834, "color": 12}}
+{"id": "SDSQ", "t": "20210617230649", "type": "start", "data": {"pos": 61011}}
+{"id": "NSSQ", "t": "20210617230649", "type": "stop", "data": {"pos": 586517, "reason": "P"}}
+{"id": "UMER", "t": "20210617230649", "type": "mark", "data": {"pos": 533509, "color": 3}}
+{"id": "VFXQ", "t": "20210617230649", "type": "start", "data": {"pos": 905711}}
+{"id": "SZMM", "t": "20210617230649", "type": "stop", "data": {"pos": 310039, "reason": "X"}}
+{"id": "FYTU", "t": "20210617230649", "type": "mark", "data": {"pos": 988956, "color": 0}}
+{"id": "SXJG", "t": "20210617230649", "type": "start", "data": {"pos": 980770}}
+{"id": "JLGH", "t": "20210617230649", "type": "stop", "data": {"pos": 303996, "reason": "G"}}
+{"id": "GJJG", "t": "20210617230649", "type": "mark", "data": {"pos": 968263, "color": 6}}
+{"id": "MRYC", "t": "20210617230649", "type": "start", "data": {"pos": 295364}}
+{"id": "QPUM", "t": "20210617230649", "type": "stop", "data": {"pos": 437250, "reason": "B"}}
+{"id": "TSGY", "t": "20210617230649", "type": "mark", "data": {"pos": 980162, "color": 16}}
+{"id": "QYJO", "t": "20210617230649", "type": "start", "data": {"pos": 782729}}
+{"id": "ORCA", "t": "20210617230649", "type": "stop", "data": {"pos": 456786, "reason": "V"}}
+{"id": "JUSJ", "t": "20210617230649", "type": "mark", "data": {"pos": 307183, "color": 3}}
+{"id": "PMNO", "t": "20210617230649", "type": "start", "data": {"pos": 299810}}
+{"id": "QLCU", "t": "20210617230649", "type": "stop", "data": {"pos": 396728, "reason": "L"}}
+{"id": "YBFE", "t": "20210617230649", "type": "mark", "data": {"pos": 493830, "color": 6}}
+{"id": "LLOS", "t": "20210617230649", "type": "start", "data": {"pos": 39869}}
+{"id": "WMRO", "t": "20210617230649", "type": "stop", "data": {"pos": 827775, "reason": "G"}}
+{"id": "NPOO", "t": "20210617230649", "type": "mark", "data": {"pos": 612379, "color": 14}}
+{"id": "YZPC", "t": "20210617230649", "type": "start", "data": {"pos": 519448}}
+{"id": "KNOM", "t": "20210617230649", "type": "stop", "data": {"pos": 971497, "reason": "O"}}
+{"id": "YHVG", "t": "20210617230649", "type": "mark", "data": {"pos": 319467, "color": 14}}
+{"id": "NLSQ", "t": "20210617230649", "type": "start", "data": {"pos": 478343}}
+{"id": "IHHK", "t": "20210617230649", "type": "stop", "data": {"pos": 729280, "reason": "E"}}
+{"id": "KGDM", "t": "20210617230649", "type": "mark", "data": {"pos": 544258, "color": 3}}
+{"id": "EUAL", "t": "20210617230649", "type": "start", "data": {"pos": 333569}}
+{"id": "SCBC", "t": "20210617230649", "type": "stop", "data": {"pos": 118860, "reason": "D"}}
+{"id": "PGQQ", "t": "20210617230649", "type": "mark", "data": {"pos": 30615, "color": 7}}
+{"id": "FAYN", "t": "20210617230649", "type": "start", "data": {"pos": 326744}}
+{"id": "YPLQ", "t": "20210617230649", "type": "stop", "data": {"pos": 839273, "reason": "A"}}
+{"id": "DFLI", "t": "20210617230649", "type": "mark", "data": {"pos": 874840, "color": 5}}
+{"id": "IWSQ", "t": "20210617230649", "type": "start", "data": {"pos": 657070}}
+{"id": "KYIG", "t": "20210617230649", "type": "stop", "data": {"pos": 835151, "reason": "F"}}
+{"id": "ZBBW", "t": "20210617230649", "type": "mark", "data": {"pos": 989371, "color": 5}}
+{"id": "KYTE", "t": "20210617230649", "type": "start", "data": {"pos": 809937}}
+{"id": "VVEI", "t": "20210617230649", "type": "stop", "data": {"pos": 534418, "reason": "J"}}
+{"id": "CLRF", "t": "20210617230649", "type": "mark", "data": {"pos": 608259, "color": 12}}
+{"id": "RBDK", "t": "20210617230649", "type": "start", "data": {"pos": 452213}}
+{"id": "ZZLP", "t": "20210617230649", "type": "stop", "data": {"pos": 733993, "reason": "R"}}
+{"id": "WPUX", "t": "20210617230649", "type": "mark", "data": {"pos": 805308, "color": 6}}
+{"id": "TAIV", "t": "20210617230649", "type": "start", "data": {"pos": 976280}}
+{"id": "ZTDQ", "t": "20210617230649", "type": "stop", "data": {"pos": 529892, "reason": "P"}}
+{"id": "TPCT", "t": "20210617230649", "type": "mark", "data": {"pos": 545194, "color": 7}}
+{"id": "VUUK", "t": "20210617230649", "type": "start", "data": {"pos": 743508}}
+{"id": "RBTQ", "t": "20210617230649", "type": "stop", "data": {"pos": 853095, "reason": "B"}}
+{"id": "QCTZ", "t": "20210617230649", "type": "mark", "data": {"pos": 229715, "color": 12}}
+{"id": "SBUI", "t": "20210617230649", "type": "start", "data": {"pos": 486749}}
+{"id": "RUDZ", "t": "20210617230649", "type": "stop", "data": {"pos": 520347, "reason": "X"}}
+{"id": "VKVV", "t": "20210617230649", "type": "mark", "data": {"pos": 938262, "color": 3}}
+{"id": "ZCDA", "t": "20210617230649", "type": "start", "data": {"pos": 940411}}
+{"id": "GPRM", "t": "20210617230649", "type": "stop", "data": {"pos": 303051, "reason": "X"}}
+{"id": "OEFR", "t": "20210617230649", "type": "mark", "data": {"pos": 583771, "color": 8}}
+{"id": "FYCK", "t": "20210617230649", "type": "start", "data": {"pos": 703018}}
+{"id": "SZQB", "t": "20210617230649", "type": "stop", "data": {"pos": 457168, "reason": "C"}}
+{"id": "DPLA", "t": "20210617230649", "type": "mark", "data": {"pos": 121974, "color": 8}}
+{"id": "FINF", "t": "20210617230649", "type": "start", "data": {"pos": 216413}}
+{"id": "BAOC", "t": "20210617230649", "type": "stop", "data": {"pos": 11924, "reason": "O"}}
+{"id": "BDIT", "t": "20210617230649", "type": "mark", "data": {"pos": 371982, "color": 7}}
+{"id": "FEVQ", "t": "20210617230649", "type": "start", "data": {"pos": 297670}}
+{"id": "XDSY", "t": "20210617230649", "type": "stop", "data": {"pos": 839726, "reason": "V"}}
+{"id": "MKVX", "t": "20210617230649", "type": "mark", "data": {"pos": 660184, "color": 15}}
+{"id": "OEHK", "t": "20210617230649", "type": "start", "data": {"pos": 131903}}
+{"id": "QOBV", "t": "20210617230649", "type": "stop", "data": {"pos": 27124, "reason": "G"}}
+{"id": "PZTK", "t": "20210617230649", "type": "mark", "data": {"pos": 138781, "color": 9}}
+{"id": "SPSB", "t": "20210617230649", "type": "start", "data": {"pos": 643179}}
+{"id": "GWTO", "t": "20210617230649", "type": "stop", "data": {"pos": 479512, "reason": "W"}}
+{"id": "YMRG", "t": "20210617230649", "type": "mark", "data": {"pos": 27733, "color": 12}}
+{"id": "EOJP", "t": "20210617230649", "type": "start", "data": {"pos": 175693}}
+{"id": "ZAKA", "t": "20210617230649", "type": "stop", "data": {"pos": 391332, "reason": "C"}}
+{"id": "WIOK", "t": "20210617230649", "type": "mark", "data": {"pos": 494047, "color": 3}}
+{"id": "IXMY", "t": "20210617230649", "type": "start", "data": {"pos": 808450}}
+{"id": "LBHR", "t": "20210617230649", "type": "stop", "data": {"pos": 122130, "reason": "E"}}
+{"id": "ERIN", "t": "20210617230649", "type": "mark", "data": {"pos": 521007, "color": 5}}
+{"id": "DVIN", "t": "20210617230649", "type": "start", "data": {"pos": 411999}}
+{"id": "XMJH", "t": "20210617230649", "type": "stop", "data": {"pos": 130045, "reason": "N"}}
+{"id": "LRDW", "t": "20210617230649", "type": "mark", "data": {"pos": 39068, "color": 9}}
+{"id": "URTG", "t": "20210617230649", "type": "start", "data": {"pos": 11499}}
+{"id": "BIYJ", "t": "20210617230649", "type": "stop", "data": {"pos": 713520, "reason": "F"}}
+{"id": "KVBB", "t": "20210617230649", "type": "mark", "data": {"pos": 50598, "color": 3}}
+{"id": "RRMM", "t": "20210617230649", "type": "start", "data": {"pos": 663554}}
+{"id": "DNYO", "t": "20210617230649", "type": "stop", "data": {"pos": 158686, "reason": "T"}}
+{"id": "LRDO", "t": "20210617230649", "type": "mark", "data": {"pos": 93130, "color": 0}}
+{"id": "QIHY", "t": "20210617230649", "type": "start", "data": {"pos": 382392}}
+{"id": "QLET", "t": "20210617230649", "type": "stop", "data": {"pos": 588869, "reason": "B"}}
+{"id": "PFRD", "t": "20210617230649", "type": "mark", "data": {"pos": 92860, "color": 12}}
+{"id": "TANX", "t": "20210617230649", "type": "start", "data": {"pos": 970131}}
+{"id": "ATKX", "t": "20210617230649", "type": "stop", "data": {"pos": 344373, "reason": "R"}}
+{"id": "KPDZ", "t": "20210617230649", "type": "mark", "data": {"pos": 80269, "color": 3}}
+{"id": "TKWF", "t": "20210617230649", "type": "start", "data": {"pos": 16713}}
+{"id": "UESR", "t": "20210617230649", "type": "stop", "data": {"pos": 676722, "reason": "T"}}
+{"id": "QPSM", "t": "20210617230649", "type": "mark", "data": {"pos": 680038, "color": 13}}
+{"id": "EPTA", "t": "20210617230649", "type": "start", "data": {"pos": 510569}}
+{"id": "FUKG", "t": "20210617230649", "type": "stop", "data": {"pos": 766126, "reason": "N"}}
+{"id": "UGBZ", "t": "20210617230649", "type": "mark", "data": {"pos": 222663, "color": 6}}
+{"id": "VGIV", "t": "20210617230649", "type": "start", "data": {"pos": 986011}}
+{"id": "ICNQ", "t": "20210617230649", "type": "stop", "data": {"pos": 448409, "reason": "T"}}
+{"id": "XOPB", "t": "20210617230649", "type": "mark", "data": {"pos": 76163, "color": 8}}
+{"id": "IGXM", "t": "20210617230649", "type": "start", "data": {"pos": 222545}}
+{"id": "RLBK", "t": "20210617230649", "type": "stop", "data": {"pos": 78767, "reason": "X"}}
+{"id": "RQTV", "t": "20210617230649", "type": "mark", "data": {"pos": 546908, "color": 11}}
+{"id": "SMLM", "t": "20210617230649", "type": "start", "data": {"pos": 472403}}
+{"id": "TDTK", "t": "20210617230649", "type": "stop", "data": {"pos": 833879, "reason": "E"}}
+{"id": "NGIX", "t": "20210617230649", "type": "mark", "data": {"pos": 190620, "color": 3}}
+{"id": "KBAV", "t": "20210617230649", "type": "start", "data": {"pos": 619638}}
+{"id": "PLAC", "t": "20210617230649", "type": "stop", "data": {"pos": 779348, "reason": "O"}}
+{"id": "WFWG", "t": "20210617230649", "type": "mark", "data": {"pos": 241653, "color": 10}}
+{"id": "VHJY", "t": "20210617230649", "type": "start", "data": {"pos": 387133}}
+{"id": "QUVS", "t": "20210617230649", "type": "stop", "data": {"pos": 815998, "reason": "S"}}
+{"id": "FZJT", "t": "20210617230649", "type": "mark", "data": {"pos": 259477, "color": 2}}
+{"id": "BSEE", "t": "20210617230649", "type": "start", "data": {"pos": 981814}}
+{"id": "RDGF", "t": "20210617230649", "type": "stop", "data": {"pos": 102759, "reason": "H"}}
+{"id": "VZEB", "t": "20210617230649", "type": "mark", "data": {"pos": 506307, "color": 3}}
+{"id": "YHHD", "t": "20210617230649", "type": "start", "data": {"pos": 398972}}
+{"id": "CMCY", "t": "20210617230649", "type": "stop", "data": {"pos": 14898, "reason": "S"}}
+{"id": "JHZA", "t": "20210617230649", "type": "mark", "data": {"pos": 939412, "color": 16}}
+{"id": "AMKF", "t": "20210617230649", "type": "start", "data": {"pos": 377379}}
+{"id": "BOHF", "t": "20210617230649", "type": "stop", "data": {"pos": 200906, "reason": "M"}}
+{"id": "OFGG", "t": "20210617230649", "type": "mark", "data": {"pos": 151243, "color": 3}}
+{"id": "EGJM", "t": "20210617230649", "type": "start", "data": {"pos": 886935}}
+{"id": "TLMD", "t": "20210617230649", "type": "stop", "data": {"pos": 731572, "reason": "L"}}
+{"id": "NAZO", "t": "20210617230649", "type": "mark", "data": {"pos": 612673, "color": 16}}
+{"id": "UMJY", "t": "20210617230649", "type": "start", "data": {"pos": 161028}}
+{"id": "PRWZ", "t": "20210617230649", "type": "stop", "data": {"pos": 550444, "reason": "R"}}
+{"id": "APXL", "t": "20210617230649", "type": "mark", "data": {"pos": 713388, "color": 8}}
+{"id": "UQYP", "t": "20210617230649", "type": "start", "data": {"pos": 830846}}
+{"id": "VMVP", "t": "20210617230649", "type": "stop", "data": {"pos": 518563, "reason": "J"}}
+{"id": "DHLE", "t": "20210617230649", "type": "mark", "data": {"pos": 930752, "color": 15}}
+{"id": "ISBD", "t": "20210617230649", "type": "start", "data": {"pos": 465937}}
+{"id": "ZIKG", "t": "20210617230649", "type": "stop", "data": {"pos": 75065, "reason": "L"}}
+{"id": "TCVK", "t": "20210617230649", "type": "mark", "data": {"pos": 874149, "color": 2}}
+{"id": "IOYN", "t": "20210617230649", "type": "start", "data": {"pos": 528396}}
+{"id": "WLIU", "t": "20210617230649", "type": "stop", "data": {"pos": 961607, "reason": "P"}}
+{"id": "IFEJ", "t": "20210617230649", "type": "mark", "data": {"pos": 829901, "color": 9}}
+{"id": "HPSO", "t": "20210617230649", "type": "start", "data": {"pos": 750494}}
+{"id": "WYKW", "t": "20210617230649", "type": "stop", "data": {"pos": 586413, "reason": "D"}}
+{"id": "VWHS", "t": "20210617230649", "type": "mark", "data": {"pos": 571908, "color": 0}}
+{"id": "DEMN", "t": "20210617230649", "type": "start", "data": {"pos": 229515}}
+{"id": "KKAN", "t": "20210617230649", "type": "stop", "data": {"pos": 947571, "reason": "U"}}
+{"id": "ZNHI", "t": "20210617230649", "type": "mark", "data": {"pos": 282295, "color": 12}}
+{"id": "EFZT", "t": "20210617230649", "type": "start", "data": {"pos": 82002}}
+{"id": "BTFC", "t": "20210617230649", "type": "stop", "data": {"pos": 722176, "reason": "J"}}
+{"id": "CKTZ", "t": "20210617230649", "type": "mark", "data": {"pos": 361842, "color": 8}}
+{"id": "EEOX", "t": "20210617230649", "type": "start", "data": {"pos": 747260}}
+{"id": "QQDQ", "t": "20210617230649", "type": "stop", "data": {"pos": 217434, "reason": "A"}}
+{"id": "HRPJ", "t": "20210617230649", "type": "mark", "data": {"pos": 857058, "color": 4}}
+{"id": "TWJU", "t": "20210617230649", "type": "start", "data": {"pos": 258712}}
+{"id": "MJBY", "t": "20210617230649", "type": "stop", "data": {"pos": 923005, "reason": "C"}}
+{"id": "WEJB", "t": "20210617230649", "type": "mark", "data": {"pos": 919057, "color": 7}}
+{"id": "PQBV", "t": "20210617230649", "type": "start", "data": {"pos": 267309}}
+{"id": "QMZC", "t": "20210617230649", "type": "stop", "data": {"pos": 86483, "reason": "Q"}}
+{"id": "VXHE", "t": "20210617230649", "type": "mark", "data": {"pos": 459587, "color": 15}}
+{"id": "LFNL", "t": "20210617230649", "type": "start", "data": {"pos": 580507}}
+{"id": "VQZF", "t": "20210617230649", "type": "stop", "data": {"pos": 225037, "reason": "W"}}
+{"id": "ICIZ", "t": "20210617230649", "type": "mark", "data": {"pos": 694998, "color": 12}}
+{"id": "CGKB", "t": "20210617230649", "type": "start", "data": {"pos": 159939}}
+{"id": "UQER", "t": "20210617230649", "type": "stop", "data": {"pos": 495733, "reason": "J"}}
+{"id": "CPHY", "t": "20210617230649", "type": "mark", "data": {"pos": 495950, "color": 15}}
+{"id": "TSDE", "t": "20210617230649", "type": "start", "data": {"pos": 433429}}
+{"id": "TRYU", "t": "20210617230649", "type": "stop", "data": {"pos": 862074, "reason": "E"}}
+{"id": "HZST", "t": "20210617230649", "type": "mark", "data": {"pos": 204599, "color": 9}}
+{"id": "IRAP", "t": "20210617230649", "type": "start", "data": {"pos": 251804}}
+{"id": "LXXJ", "t": "20210617230649", "type": "stop", "data": {"pos": 555654, "reason": "M"}}
+{"id": "DIKZ", "t": "20210617230649", "type": "mark", "data": {"pos": 65491, "color": 5}}
+{"id": "BTFE", "t": "20210617230649", "type": "start", "data": {"pos": 263456}}
+{"id": "XDRO", "t": "20210617230649", "type": "stop", "data": {"pos": 800924, "reason": "V"}}
+{"id": "FCFM", "t": "20210617230649", "type": "mark", "data": {"pos": 835273, "color": 0}}
+{"id": "IWJX", "t": "20210617230649", "type": "start", "data": {"pos": 148720}}
+{"id": "RONX", "t": "20210617230649", "type": "stop", "data": {"pos": 151288, "reason": "E"}}
+{"id": "EMMN", "t": "20210617230649", "type": "mark", "data": {"pos": 214943, "color": 10}}
+{"id": "LOMI", "t": "20210617230649", "type": "start", "data": {"pos": 190317}}
+{"id": "CDYP", "t": "20210617230649", "type": "stop", "data": {"pos": 785821, "reason": "V"}}
+{"id": "HWGP", "t": "20210617230649", "type": "mark", "data": {"pos": 219777, "color": 11}}
+{"id": "SAIZ", "t": "20210617230649", "type": "start", "data": {"pos": 385112}}
+{"id": "TLKQ", "t": "20210617230649", "type": "stop", "data": {"pos": 550315, "reason": "P"}}
+{"id": "ZOUU", "t": "20210617230649", "type": "mark", "data": {"pos": 758378, "color": 4}}
+{"id": "ASZC", "t": "20210617230649", "type": "start", "data": {"pos": 444443}}
+{"id": "GWPT", "t": "20210617230649", "type": "stop", "data": {"pos": 901645, "reason": "Q"}}
+{"id": "PZIS", "t": "20210617230649", "type": "mark", "data": {"pos": 829658, "color": 5}}
+{"id": "AEMZ", "t": "20210617230649", "type": "start", "data": {"pos": 189688}}
+{"id": "WWOF", "t": "20210617230649", "type": "stop", "data": {"pos": 908888, "reason": "N"}}
+{"id": "DDYL", "t": "20210617230649", "type": "mark", "data": {"pos": 517984, "color": 12}}
+{"id": "OZTM", "t": "20210617230649", "type": "start", "data": {"pos": 833451}}
+{"id": "OLJE", "t": "20210617230649", "type": "stop", "data": {"pos": 216010, "reason": "X"}}
+{"id": "WZEL", "t": "20210617230649", "type": "mark", "data": {"pos": 310373, "color": 9}}
+{"id": "MZCA", "t": "20210617230649", "type": "start", "data": {"pos": 958246}}
+{"id": "SYWJ", "t": "20210617230649", "type": "stop", "data": {"pos": 754334, "reason": "U"}}
+{"id": "BEYA", "t": "20210617230649", "type": "mark", "data": {"pos": 918264, "color": 7}}
+{"id": "MXRQ", "t": "20210617230649", "type": "start", "data": {"pos": 740907}}
+{"id": "DBIT", "t": "20210617230649", "type": "stop", "data": {"pos": 850426, "reason": "S"}}
+{"id": "NPIN", "t": "20210617230649", "type": "mark", "data": {"pos": 697586, "color": 7}}
+{"id": "BNHW", "t": "20210617230649", "type": "start", "data": {"pos": 6457}}
+{"id": "XVWI", "t": "20210617230649", "type": "stop", "data": {"pos": 738469, "reason": "P"}}
+{"id": "CFLM", "t": "20210617230649", "type": "mark", "data": {"pos": 696891, "color": 16}}
+{"id": "RYDE", "t": "20210617230649", "type": "start", "data": {"pos": 120828}}
+{"id": "XWBF", "t": "20210617230649", "type": "stop", "data": {"pos": 893218, "reason": "M"}}
+{"id": "ABSP", "t": "20210617230649", "type": "mark", "data": {"pos": 647827, "color": 8}}
+{"id": "RRCF", "t": "20210617230649", "type": "start", "data": {"pos": 903251}}
+{"id": "WHOV", "t": "20210617230649", "type": "stop", "data": {"pos": 638612, "reason": "M"}}
+{"id": "MLIM", "t": "20210617230649", "type": "mark", "data": {"pos": 83200, "color": 1}}
+{"id": "QQNZ", "t": "20210617230649", "type": "start", "data": {"pos": 9666}}
+{"id": "TALF", "t": "20210617230649", "type": "stop", "data": {"pos": 612245, "reason": "H"}}
+{"id": "VKLN", "t": "20210617230649", "type": "mark", "data": {"pos": 942291, "color": 14}}
+{"id": "GNMI", "t": "20210617230649", "type": "start", "data": {"pos": 287530}}
+{"id": "VYWO", "t": "20210617230649", "type": "stop", "data": {"pos": 617921, "reason": "U"}}
+{"id": "HYBW", "t": "20210617230649", "type": "mark", "data": {"pos": 889705, "color": 11}}
+{"id": "CEIJ", "t": "20210617230649", "type": "start", "data": {"pos": 589292}}
+{"id": "RGZZ", "t": "20210617230649", "type": "stop", "data": {"pos": 665431, "reason": "L"}}
+{"id": "SCXU", "t": "20210617230649", "type": "mark", "data": {"pos": 15727, "color": 1}}
+{"id": "BJEC", "t": "20210617230649", "type": "start", "data": {"pos": 186414}}
+{"id": "AZGZ", "t": "20210617230649", "type": "stop", "data": {"pos": 111465, "reason": "M"}}
+{"id": "WUHN", "t": "20210617230649", "type": "mark", "data": {"pos": 986840, "color": 16}}
+{"id": "YBYE", "t": "20210617230649", "type": "start", "data": {"pos": 492540}}
+{"id": "JNJA", "t": "20210617230649", "type": "stop", "data": {"pos": 606160, "reason": "B"}}
+{"id": "KNBT", "t": "20210617230649", "type": "mark", "data": {"pos": 327576, "color": 16}}
+{"id": "ASDG", "t": "20210617230649", "type": "start", "data": {"pos": 433174}}
+{"id": "QTUD", "t": "20210617230649", "type": "stop", "data": {"pos": 747193, "reason": "T"}}
+{"id": "APFV", "t": "20210617230649", "type": "mark", "data": {"pos": 707608, "color": 13}}
+{"id": "HACR", "t": "20210617230649", "type": "start", "data": {"pos": 746047}}
+{"id": "OIYG", "t": "20210617230649", "type": "stop", "data": {"pos": 784670, "reason": "R"}}
+{"id": "HRTG", "t": "20210617230649", "type": "mark", "data": {"pos": 924829, "color": 10}}
+{"id": "BWZS", "t": "20210617230649", "type": "start", "data": {"pos": 850309}}
+{"id": "XNTR", "t": "20210617230649", "type": "stop", "data": {"pos": 100520, "reason": "I"}}
+{"id": "MZLP", "t": "20210617230649", "type": "mark", "data": {"pos": 451225, "color": 4}}
+{"id": "SIIS", "t": "20210617230649", "type": "start", "data": {"pos": 642069}}
+{"id": "WXJD", "t": "20210617230649", "type": "stop", "data": {"pos": 214762, "reason": "E"}}
+{"id": "TZVH", "t": "20210617230649", "type": "mark", "data": {"pos": 639169, "color": 1}}
+{"id": "BSUQ", "t": "20210617230649", "type": "start", "data": {"pos": 748070}}
+{"id": "EUKJ", "t": "20210617230649", "type": "stop", "data": {"pos": 550452, "reason": "K"}}
+{"id": "KQKB", "t": "20210617230649", "type": "mark", "data": {"pos": 740679, "color": 7}}
+{"id": "TYNA", "t": "20210617230649", "type": "start", "data": {"pos": 108795}}
+{"id": "OOWI", "t": "20210617230649", "type": "stop", "data": {"pos": 914189, "reason": "L"}}
+{"id": "EOYH", "t": "20210617230649", "type": "mark", "data": {"pos": 237426, "color": 15}}
+{"id": "QEAZ", "t": "20210617230649", "type": "start", "data": {"pos": 604736}}
+{"id": "OQGF", "t": "20210617230649", "type": "stop", "data": {"pos": 152009, "reason": "F"}}
+{"id": "MUPA", "t": "20210617230649", "type": "mark", "data": {"pos": 856397, "color": 4}}
+{"id": "JZNW", "t": "20210617230649", "type": "start", "data": {"pos": 89676}}
+{"id": "DNDO", "t": "20210617230649", "type": "stop", "data": {"pos": 564475, "reason": "P"}}
+{"id": "YRHV", "t": "20210617230649", "type": "mark", "data": {"pos": 255758, "color": 7}}
+{"id": "XERU", "t": "20210617230649", "type": "start", "data": {"pos": 63245}}
+{"id": "GTKZ", "t": "20210617230649", "type": "stop", "data": {"pos": 208501, "reason": "A"}}
+{"id": "PIJT", "t": "20210617230649", "type": "mark", "data": {"pos": 524916, "color": 8}}
+{"id": "UHZR", "t": "20210617230649", "type": "start", "data": {"pos": 874448}}
+{"id": "QIDH", "t": "20210617230649", "type": "stop", "data": {"pos": 832589, "reason": "Z"}}
+{"id": "UWRI", "t": "20210617230649", "type": "mark", "data": {"pos": 427190, "color": 3}}
+{"id": "TMMJ", "t": "20210617230649", "type": "start", "data": {"pos": 863029}}
+{"id": "TWLS", "t": "20210617230649", "type": "stop", "data": {"pos": 806529, "reason": "F"}}
+{"id": "HTNE", "t": "20210617230649", "type": "mark", "data": {"pos": 55772, "color": 3}}
+{"id": "UHJL", "t": "20210617230649", "type": "start", "data": {"pos": 821880}}
+{"id": "ZMRP", "t": "20210617230649", "type": "stop", "data": {"pos": 878715, "reason": "N"}}
+{"id": "GVPC", "t": "20210617230649", "type": "mark", "data": {"pos": 951192, "color": 13}}
+{"id": "CRAK", "t": "20210617230649", "type": "start", "data": {"pos": 745670}}
+{"id": "FATJ", "t": "20210617230649", "type": "stop", "data": {"pos": 208335, "reason": "J"}}
+{"id": "YGDJ", "t": "20210617230649", "type": "mark", "data": {"pos": 413564, "color": 3}}
+{"id": "KBRU", "t": "20210617230649", "type": "start", "data": {"pos": 911881}}
+{"id": "YUBI", "t": "20210617230649", "type": "stop", "data": {"pos": 861755, "reason": "J"}}
+{"id": "HOPO", "t": "20210617230649", "type": "mark", "data": {"pos": 643859, "color": 15}}
+{"id": "DOXQ", "t": "20210617230649", "type": "start", "data": {"pos": 345533}}
+{"id": "DIFQ", "t": "20210617230649", "type": "stop", "data": {"pos": 384594, "reason": "Y"}}
+{"id": "LMWY", "t": "20210617230649", "type": "mark", "data": {"pos": 422248, "color": 1}}
+{"id": "VRDK", "t": "20210617230649", "type": "start", "data": {"pos": 913466}}
+{"id": "UBCI", "t": "20210617230649", "type": "stop", "data": {"pos": 96037, "reason": "B"}}
+{"id": "KYLS", "t": "20210617230649", "type": "mark", "data": {"pos": 786704, "color": 12}}
+{"id": "BONJ", "t": "20210617230649", "type": "start", "data": {"pos": 10926}}
+{"id": "AGQU", "t": "20210617230649", "type": "stop", "data": {"pos": 171365, "reason": "S"}}
+{"id": "EFDB", "t": "20210617230649", "type": "mark", "data": {"pos": 355845, "color": 6}}
+{"id": "SQHB", "t": "20210617230649", "type": "start", "data": {"pos": 288670}}
+{"id": "JHKO", "t": "20210617230649", "type": "stop", "data": {"pos": 497482, "reason": "M"}}
+{"id": "HHTA", "t": "20210617230649", "type": "mark", "data": {"pos": 875089, "color": 2}}
+{"id": "WGYD", "t": "20210617230649", "type": "start", "data": {"pos": 704085}}
+{"id": "RWCX", "t": "20210617230649", "type": "stop", "data": {"pos": 46636, "reason": "Y"}}
+{"id": "UMQE", "t": "20210617230649", "type": "mark", "data": {"pos": 563711, "color": 1}}
+{"id": "HSDM", "t": "20210617230649", "type": "start", "data": {"pos": 754430}}
+{"id": "GXJN", "t": "20210617230649", "type": "stop", "data": {"pos": 755390, "reason": "N"}}
+{"id": "PKLG", "t": "20210617230649", "type": "mark", "data": {"pos": 839990, "color": 6}}
+{"id": "PCAV", "t": "20210617230649", "type": "start", "data": {"pos": 224581}}
+{"id": "BSDM", "t": "20210617230649", "type": "stop", "data": {"pos": 285006, "reason": "H"}}
+{"id": "UJIQ", "t": "20210617230649", "type": "mark", "data": {"pos": 685081, "color": 16}}
+{"id": "GYHG", "t": "20210617230649", "type": "start", "data": {"pos": 688108}}
+{"id": "XAVI", "t": "20210617230649", "type": "stop", "data": {"pos": 41010, "reason": "N"}}
+{"id": "BQHP", "t": "20210617230649", "type": "mark", "data": {"pos": 3655, "color": 7}}
+{"id": "YZMW", "t": "20210617230649", "type": "start", "data": {"pos": 885479}}
+{"id": "OMMG", "t": "20210617230649", "type": "stop", "data": {"pos": 72951, "reason": "C"}}
+{"id": "OWOW", "t": "20210617230649", "type": "mark", "data": {"pos": 586556, "color": 0}}
+{"id": "FVWZ", "t": "20210617230649", "type": "start", "data": {"pos": 980772}}
+{"id": "HDNN", "t": "20210617230649", "type": "stop", "data": {"pos": 509369, "reason": "P"}}
+{"id": "JJZF", "t": "20210617230649", "type": "mark", "data": {"pos": 733138, "color": 14}}
+{"id": "NLPS", "t": "20210617230649", "type": "start", "data": {"pos": 470495}}
+{"id": "DNMZ", "t": "20210617230649", "type": "stop", "data": {"pos": 800648, "reason": "C"}}
+{"id": "QSJC", "t": "20210617230649", "type": "mark", "data": {"pos": 59805, "color": 12}}
+{"id": "ELEI", "t": "20210617230649", "type": "start", "data": {"pos": 894173}}
+{"id": "WZUT", "t": "20210617230649", "type": "stop", "data": {"pos": 681633, "reason": "X"}}
+{"id": "JYGA", "t": "20210617230649", "type": "mark", "data": {"pos": 308350, "color": 7}}
+{"id": "KQJM", "t": "20210617230649", "type": "start", "data": {"pos": 921719}}
+{"id": "DLIP", "t": "20210617230649", "type": "stop", "data": {"pos": 640623, "reason": "B"}}
+{"id": "PUOG", "t": "20210617230649", "type": "mark", "data": {"pos": 591317, "color": 11}}
+{"id": "FPSC", "t": "20210617230649", "type": "start", "data": {"pos": 222799}}
+{"id": "YZTX", "t": "20210617230649", "type": "stop", "data": {"pos": 294015, "reason": "J"}}
+{"id": "GVDL", "t": "20210617230649", "type": "mark", "data": {"pos": 92241, "color": 11}}
+{"id": "IDBT", "t": "20210617230649", "type": "start", "data": {"pos": 824891}}
+{"id": "OZLN", "t": "20210617230649", "type": "stop", "data": {"pos": 244159, "reason": "I"}}
+{"id": "MQKF", "t": "20210617230649", "type": "mark", "data": {"pos": 348578, "color": 10}}
+{"id": "OCQP", "t": "20210617230649", "type": "start", "data": {"pos": 808777}}
+{"id": "XEGZ", "t": "20210617230649", "type": "stop", "data": {"pos": 553337, "reason": "B"}}
+{"id": "HTUQ", "t": "20210617230649", "type": "mark", "data": {"pos": 338158, "color": 15}}
+{"id": "AHSZ", "t": "20210617230649", "type": "start", "data": {"pos": 528212}}
+{"id": "DAOX", "t": "20210617230649", "type": "stop", "data": {"pos": 118328, "reason": "E"}}
+{"id": "JTJE", "t": "20210617230649", "type": "mark", "data": {"pos": 768229, "color": 8}}
+{"id": "LAFK", "t": "20210617230649", "type": "start", "data": {"pos": 146389}}
+{"id": "RUKU", "t": "20210617230649", "type": "stop", "data": {"pos": 654255, "reason": "H"}}
+{"id": "FETA", "t": "20210617230649", "type": "mark", "data": {"pos": 566355, "color": 0}}
+{"id": "DQYJ", "t": "20210617230649", "type": "start", "data": {"pos": 603800}}
+{"id": "WGIK", "t": "20210617230649", "type": "stop", "data": {"pos": 98852, "reason": "E"}}
+{"id": "MCSP", "t": "20210617230649", "type": "mark", "data": {"pos": 153556, "color": 9}}
+{"id": "MRYC", "t": "20210617230649", "type": "start", "data": {"pos": 267481}}
+{"id": "BPQJ", "t": "20210617230649", "type": "stop", "data": {"pos": 686989, "reason": "E"}}
+{"id": "LAMO", "t": "20210617230649", "type": "mark", "data": {"pos": 950209, "color": 10}}
+{"id": "RZPL", "t": "20210617230649", "type": "start", "data": {"pos": 982153}}
+{"id": "YKNG", "t": "20210617230649", "type": "stop", "data": {"pos": 869747, "reason": "J"}}
+{"id": "IGMX", "t": "20210617230649", "type": "mark", "data": {"pos": 110920, "color": 12}}
+{"id": "HPXZ", "t": "20210617230649", "type": "start", "data": {"pos": 242748}}
+{"id": "BXSO", "t": "20210617230649", "type": "stop", "data": {"pos": 998955, "reason": "D"}}
+{"id": "OZAS", "t": "20210617230649", "type": "mark", "data": {"pos": 589278, "color": 3}}
+{"id": "UTSZ", "t": "20210617230649", "type": "start", "data": {"pos": 335549}}
+{"id": "XNUL", "t": "20210617230649", "type": "stop", "data": {"pos": 438325, "reason": "V"}}
+{"id": "OIFU", "t": "20210617230649", "type": "mark", "data": {"pos": 273180, "color": 13}}
+{"id": "FMWK", "t": "20210617230649", "type": "start", "data": {"pos": 987367}}
+{"id": "AGSG", "t": "20210617230649", "type": "stop", "data": {"pos": 332636, "reason": "M"}}
+{"id": "JQMD", "t": "20210617230649", "type": "mark", "data": {"pos": 471319, "color": 1}}
+{"id": "QMLT", "t": "20210617230649", "type": "start", "data": {"pos": 918837}}
+{"id": "XDDS", "t": "20210617230649", "type": "stop", "data": {"pos": 727340, "reason": "S"}}
+{"id": "QWAJ", "t": "20210617230649", "type": "mark", "data": {"pos": 829686, "color": 3}}
+{"id": "SNAP", "t": "20210617230649", "type": "start", "data": {"pos": 969924}}
+{"id": "GGQF", "t": "20210617230649", "type": "stop", "data": {"pos": 731218, "reason": "C"}}
+{"id": "UPSE", "t": "20210617230649", "type": "mark", "data": {"pos": 663893, "color": 16}}
+{"id": "JRFW", "t": "20210617230649", "type": "start", "data": {"pos": 140560}}
+{"id": "OOPC", "t": "20210617230649", "type": "stop", "data": {"pos": 868085, "reason": "N"}}
+{"id": "OZJH", "t": "20210617230649", "type": "mark", "data": {"pos": 698870, "color": 14}}
+{"id": "MQNI", "t": "20210617230649", "type": "start", "data": {"pos": 562090}}
+{"id": "DOTZ", "t": "20210617230649", "type": "stop", "data": {"pos": 156141, "reason": "D"}}
+{"id": "CXRF", "t": "20210617230649", "type": "mark", "data": {"pos": 998999, "color": 13}}
+{"id": "RGEW", "t": "20210617230649", "type": "start", "data": {"pos": 676382}}
+{"id": "GWGT", "t": "20210617230649", "type": "stop", "data": {"pos": 261684, "reason": "X"}}
+{"id": "ZVUZ", "t": "20210617230649", "type": "mark", "data": {"pos": 179917, "color": 12}}
+{"id": "DIED", "t": "20210617230649", "type": "start", "data": {"pos": 306872}}
+{"id": "PFLH", "t": "20210617230649", "type": "stop", "data": {"pos": 147520, "reason": "G"}}
+{"id": "VCDY", "t": "20210617230649", "type": "mark", "data": {"pos": 164462, "color": 14}}
+{"id": "XBGE", "t": "20210617230649", "type": "start", "data": {"pos": 881306}}
+{"id": "DPPT", "t": "20210617230649", "type": "stop", "data": {"pos": 102369, "reason": "E"}}
+{"id": "JHWY", "t": "20210617230649", "type": "mark", "data": {"pos": 469484, "color": 1}}
+{"id": "FWED", "t": "20210617230649", "type": "start", "data": {"pos": 211790}}
+{"id": "JLEN", "t": "20210617230649", "type": "stop", "data": {"pos": 229649, "reason": "F"}}
+{"id": "NJUS", "t": "20210617230649", "type": "mark", "data": {"pos": 638519, "color": 1}}
+{"id": "BJJV", "t": "20210617230649", "type": "start", "data": {"pos": 134753}}
+{"id": "HCQW", "t": "20210617230649", "type": "stop", "data": {"pos": 334981, "reason": "K"}}
+{"id": "QRJK", "t": "20210617230649", "type": "mark", "data": {"pos": 726068, "color": 1}}
+{"id": "BJMK", "t": "20210617230649", "type": "start", "data": {"pos": 187330}}
+{"id": "NYQB", "t": "20210617230649", "type": "stop", "data": {"pos": 124955, "reason": "E"}}
+{"id": "UDLA", "t": "20210617230649", "type": "mark", "data": {"pos": 955964, "color": 11}}
+{"id": "QNEL", "t": "20210617230649", "type": "start", "data": {"pos": 450603}}
+{"id": "UGMB", "t": "20210617230649", "type": "stop", "data": {"pos": 581159, "reason": "M"}}
+{"id": "MJWQ", "t": "20210617230649", "type": "mark", "data": {"pos": 212937, "color": 10}}
+{"id": "YDZH", "t": "20210617230649", "type": "start", "data": {"pos": 425869}}
+{"id": "QYEE", "t": "20210617230649", "type": "stop", "data": {"pos": 143354, "reason": "P"}}
+{"id": "RVDW", "t": "20210617230649", "type": "mark", "data": {"pos": 469775, "color": 2}}
+{"id": "ZRYH", "t": "20210617230649", "type": "start", "data": {"pos": 33563}}
+{"id": "GGMV", "t": "20210617230649", "type": "stop", "data": {"pos": 374709, "reason": "R"}}
+{"id": "TDKQ", "t": "20210617230649", "type": "mark", "data": {"pos": 944072, "color": 14}}
+{"id": "MCFX", "t": "20210617230649", "type": "start", "data": {"pos": 550438}}
+{"id": "FHQF", "t": "20210617230649", "type": "stop", "data": {"pos": 100744, "reason": "W"}}
+{"id": "QQFX", "t": "20210617230649", "type": "mark", "data": {"pos": 739633, "color": 7}}
+{"id": "LXMA", "t": "20210617230649", "type": "start", "data": {"pos": 604088}}
+{"id": "PDXC", "t": "20210617230649", "type": "stop", "data": {"pos": 892846, "reason": "N"}}
+{"id": "MMVJ", "t": "20210617230649", "type": "mark", "data": {"pos": 703799, "color": 4}}
+{"id": "VRXT", "t": "20210617230649", "type": "start", "data": {"pos": 664631}}
+{"id": "TPPO", "t": "20210617230649", "type": "stop", "data": {"pos": 361067, "reason": "P"}}
+{"id": "SHCF", "t": "20210617230649", "type": "mark", "data": {"pos": 670951, "color": 11}}
+{"id": "NTCY", "t": "20210617230649", "type": "start", "data": {"pos": 614279}}
+{"id": "ABIJ", "t": "20210617230649", "type": "stop", "data": {"pos": 992020, "reason": "L"}}
+{"id": "MCRU", "t": "20210617230649", "type": "mark", "data": {"pos": 5974, "color": 0}}
+{"id": "AGJD", "t": "20210617230649", "type": "start", "data": {"pos": 608586}}
+{"id": "TNVR", "t": "20210617230649", "type": "stop", "data": {"pos": 955755, "reason": "B"}}
+{"id": "HDSG", "t": "20210617230649", "type": "mark", "data": {"pos": 13548, "color": 15}}
+{"id": "PKVL", "t": "20210617230649", "type": "start", "data": {"pos": 930786}}
+{"id": "USDF", "t": "20210617230649", "type": "stop", "data": {"pos": 366643, "reason": "M"}}
+{"id": "LAFU", "t": "20210617230649", "type": "mark", "data": {"pos": 439491, "color": 6}}
+{"id": "YFQH", "t": "20210617230649", "type": "start", "data": {"pos": 623878}}
+{"id": "ZEGU", "t": "20210617230649", "type": "stop", "data": {"pos": 13865, "reason": "Q"}}
+{"id": "LNEO", "t": "20210617230649", "type": "mark", "data": {"pos": 143783, "color": 7}}
+{"id": "YTXD", "t": "20210617230649", "type": "start", "data": {"pos": 473218}}
+{"id": "SPAE", "t": "20210617230649", "type": "stop", "data": {"pos": 290086, "reason": "S"}}
+{"id": "VOTW", "t": "20210617230649", "type": "mark", "data": {"pos": 769010, "color": 6}}
+{"id": "INCV", "t": "20210617230649", "type": "start", "data": {"pos": 35988}}
+{"id": "DCJQ", "t": "20210617230649", "type": "stop", "data": {"pos": 531249, "reason": "G"}}
+{"id": "KPVZ", "t": "20210617230649", "type": "mark", "data": {"pos": 492950, "color": 3}}
+{"id": "KRWU", "t": "20210617230649", "type": "start", "data": {"pos": 224894}}
+{"id": "HTSE", "t": "20210617230649", "type": "stop", "data": {"pos": 371315, "reason": "F"}}
+{"id": "ZHHQ", "t": "20210617230649", "type": "mark", "data": {"pos": 613123, "color": 9}}
+{"id": "MFVV", "t": "20210617230649", "type": "start", "data": {"pos": 952903}}
+{"id": "UMYU", "t": "20210617230649", "type": "stop", "data": {"pos": 45992, "reason": "V"}}
+{"id": "AFQR", "t": "20210617230649", "type": "mark", "data": {"pos": 729406, "color": 14}}
+{"id": "FKTD", "t": "20210617230649", "type": "start", "data": {"pos": 407467}}
+{"id": "MVEE", "t": "20210617230649", "type": "stop", "data": {"pos": 11234, "reason": "P"}}
+{"id": "CSVV", "t": "20210617230649", "type": "mark", "data": {"pos": 180285, "color": 8}}
+{"id": "JOCH", "t": "20210617230649", "type": "start", "data": {"pos": 785718}}
+{"id": "VXPN", "t": "20210617230649", "type": "stop", "data": {"pos": 561863, "reason": "F"}}
+{"id": "RCEP", "t": "20210617230649", "type": "mark", "data": {"pos": 811675, "color": 12}}
+{"id": "IAPR", "t": "20210617230649", "type": "start", "data": {"pos": 638792}}
+{"id": "VECO", "t": "20210617230649", "type": "stop", "data": {"pos": 861550, "reason": "L"}}
+{"id": "GYTL", "t": "20210617230649", "type": "mark", "data": {"pos": 401351, "color": 10}}
+{"id": "WQJV", "t": "20210617230649", "type": "start", "data": {"pos": 370063}}
+{"id": "CKZH", "t": "20210617230649", "type": "stop", "data": {"pos": 187615, "reason": "Q"}}
+{"id": "IPTO", "t": "20210617230649", "type": "mark", "data": {"pos": 767716, "color": 6}}
+{"id": "KBJZ", "t": "20210617230649", "type": "start", "data": {"pos": 894603}}
+{"id": "VJGW", "t": "20210617230649", "type": "stop", "data": {"pos": 164584, "reason": "E"}}
+{"id": "ZLHY", "t": "20210617230649", "type": "mark", "data": {"pos": 262643, "color": 14}}
+{"id": "LHJL", "t": "20210617230649", "type": "start", "data": {"pos": 254215}}
+{"id": "LQNO", "t": "20210617230649", "type": "stop", "data": {"pos": 476064, "reason": "J"}}
+{"id": "ZKSD", "t": "20210617230649", "type": "mark", "data": {"pos": 340153, "color": 13}}
+{"id": "HXVM", "t": "20210617230649", "type": "start", "data": {"pos": 868115}}
+{"id": "GKNM", "t": "20210617230649", "type": "stop", "data": {"pos": 14557, "reason": "L"}}
+{"id": "QMEV", "t": "20210617230649", "type": "mark", "data": {"pos": 60027, "color": 16}}
+{"id": "PJFK", "t": "20210617230649", "type": "start", "data": {"pos": 825499}}
+{"id": "JFQX", "t": "20210617230649", "type": "stop", "data": {"pos": 612636, "reason": "A"}}
+{"id": "ENCQ", "t": "20210617230649", "type": "mark", "data": {"pos": 93881, "color": 14}}
+{"id": "WSCE", "t": "20210617230649", "type": "start", "data": {"pos": 829933}}
+{"id": "RNNC", "t": "20210617230649", "type": "stop", "data": {"pos": 592377, "reason": "L"}}
+{"id": "NTUG", "t": "20210617230649", "type": "mark", "data": {"pos": 980056, "color": 8}}
+{"id": "HAIH", "t": "20210617230649", "type": "start", "data": {"pos": 801228}}
+{"id": "VPHZ", "t": "20210617230649", "type": "stop", "data": {"pos": 904228, "reason": "T"}}
+{"id": "ERPC", "t": "20210617230649", "type": "mark", "data": {"pos": 398127, "color": 13}}
+{"id": "ZCRC", "t": "20210617230649", "type": "start", "data": {"pos": 312943}}
+{"id": "NFSR", "t": "20210617230649", "type": "stop", "data": {"pos": 915536, "reason": "E"}}
+{"id": "CMLQ", "t": "20210617230649", "type": "mark", "data": {"pos": 750953, "color": 16}}
+{"id": "BHLA", "t": "20210617230649", "type": "start", "data": {"pos": 509682}}
+{"id": "ITTF", "t": "20210617230649", "type": "stop", "data": {"pos": 218872, "reason": "Q"}}
+{"id": "GWLR", "t": "20210617230649", "type": "mark", "data": {"pos": 646571, "color": 4}}
+{"id": "QXTR", "t": "20210617230649", "type": "start", "data": {"pos": 721135}}
+{"id": "CSDX", "t": "20210617230649", "type": "stop", "data": {"pos": 319546, "reason": "Q"}}
+{"id": "WUKJ", "t": "20210617230649", "type": "mark", "data": {"pos": 496882, "color": 0}}
+{"id": "FUPH", "t": "20210617230649", "type": "start", "data": {"pos": 982677}}
+{"id": "ASSG", "t": "20210617230649", "type": "stop", "data": {"pos": 145964, "reason": "K"}}
+{"id": "JOCC", "t": "20210617230649", "type": "mark", "data": {"pos": 993473, "color": 15}}
+{"id": "YIBS", "t": "20210617230649", "type": "start", "data": {"pos": 992085}}
+{"id": "QDID", "t": "20210617230649", "type": "stop", "data": {"pos": 116953, "reason": "V"}}
+{"id": "QUFN", "t": "20210617230649", "type": "mark", "data": {"pos": 29270, "color": 15}}
+{"id": "DXQN", "t": "20210617230649", "type": "start", "data": {"pos": 104937}}
+{"id": "UNMU", "t": "20210617230649", "type": "stop", "data": {"pos": 883445, "reason": "A"}}
+{"id": "ULWF", "t": "20210617230649", "type": "mark", "data": {"pos": 260643, "color": 8}}
+{"id": "CBAZ", "t": "20210617230649", "type": "start", "data": {"pos": 399039}}
+{"id": "QKLW", "t": "20210617230649", "type": "stop", "data": {"pos": 760448, "reason": "V"}}
+{"id": "GPEB", "t": "20210617230649", "type": "mark", "data": {"pos": 150255, "color": 7}}
+{"id": "YAFN", "t": "20210617230649", "type": "start", "data": {"pos": 989478}}
+{"id": "MUTE", "t": "20210617230649", "type": "stop", "data": {"pos": 625369, "reason": "U"}}
+{"id": "TPWX", "t": "20210617230649", "type": "mark", "data": {"pos": 552560, "color": 14}}
+{"id": "NKMH", "t": "20210617230649", "type": "start", "data": {"pos": 644172}}
+{"id": "HJCU", "t": "20210617230649", "type": "stop", "data": {"pos": 689643, "reason": "Y"}}
+{"id": "GGIE", "t": "20210617230649", "type": "mark", "data": {"pos": 95711, "color": 9}}
+{"id": "AFHB", "t": "20210617230649", "type": "start", "data": {"pos": 263702}}
+{"id": "VDKW", "t": "20210617230649", "type": "stop", "data": {"pos": 190350, "reason": "J"}}
+{"id": "VLXT", "t": "20210617230649", "type": "mark", "data": {"pos": 993018, "color": 0}}
+{"id": "KDAS", "t": "20210617230649", "type": "start", "data": {"pos": 962474}}
+{"id": "HPKR", "t": "20210617230649", "type": "stop", "data": {"pos": 916960, "reason": "I"}}
+{"id": "XIIJ", "t": "20210617230649", "type": "mark", "data": {"pos": 290978, "color": 12}}
+{"id": "CHDC", "t": "20210617230649", "type": "start", "data": {"pos": 727811}}
+{"id": "UEEZ", "t": "20210617230649", "type": "stop", "data": {"pos": 666613, "reason": "U"}}
+{"id": "OBSD", "t": "20210617230649", "type": "mark", "data": {"pos": 201533, "color": 15}}
+{"id": "SGTU", "t": "20210617230649", "type": "start", "data": {"pos": 221932}}
+{"id": "CQSO", "t": "20210617230649", "type": "stop", "data": {"pos": 163303, "reason": "L"}}
+{"id": "VWDF", "t": "20210617230649", "type": "mark", "data": {"pos": 49277, "color": 14}}
+{"id": "ESNU", "t": "20210617230649", "type": "start", "data": {"pos": 932560}}
+{"id": "QSUJ", "t": "20210617230649", "type": "stop", "data": {"pos": 702254, "reason": "E"}}
+{"id": "ULGO", "t": "20210617230649", "type": "mark", "data": {"pos": 604911, "color": 2}}
+{"id": "OJEY", "t": "20210617230649", "type": "start", "data": {"pos": 165548}}
+{"id": "NFPW", "t": "20210617230649", "type": "stop", "data": {"pos": 845189, "reason": "T"}}
+{"id": "LJQD", "t": "20210617230649", "type": "mark", "data": {"pos": 445231, "color": 7}}
+{"id": "VIXX", "t": "20210617230649", "type": "start", "data": {"pos": 35668}}
+{"id": "GDQX", "t": "20210617230649", "type": "stop", "data": {"pos": 300415, "reason": "P"}}
+{"id": "WEYD", "t": "20210617230649", "type": "mark", "data": {"pos": 263305, "color": 9}}
+{"id": "XFVU", "t": "20210617230649", "type": "start", "data": {"pos": 918157}}
+{"id": "OONH", "t": "20210617230649", "type": "stop", "data": {"pos": 432641, "reason": "V"}}
+{"id": "PBIM", "t": "20210617230649", "type": "mark", "data": {"pos": 618578, "color": 0}}
+{"id": "OLAM", "t": "20210617230649", "type": "start", "data": {"pos": 442089}}
+{"id": "BPMZ", "t": "20210617230649", "type": "stop", "data": {"pos": 257455, "reason": "W"}}
+{"id": "HFRK", "t": "20210617230649", "type": "mark", "data": {"pos": 481872, "color": 16}}
+{"id": "WWIB", "t": "20210617230649", "type": "start", "data": {"pos": 927523}}
+{"id": "VRBM", "t": "20210617230649", "type": "stop", "data": {"pos": 272850, "reason": "I"}}
+{"id": "ZKDP", "t": "20210617230649", "type": "mark", "data": {"pos": 543374, "color": 4}}
+{"id": "ULOP", "t": "20210617230649", "type": "start", "data": {"pos": 435088}}
+{"id": "HIPA", "t": "20210617230649", "type": "stop", "data": {"pos": 808233, "reason": "P"}}
+{"id": "KCJQ", "t": "20210617230649", "type": "mark", "data": {"pos": 434633, "color": 11}}
+{"id": "YMQZ", "t": "20210617230649", "type": "start", "data": {"pos": 204157}}
+{"id": "BUJK", "t": "20210617230649", "type": "stop", "data": {"pos": 808743, "reason": "S"}}
+{"id": "SGEA", "t": "20210617230649", "type": "mark", "data": {"pos": 411177, "color": 6}}
+{"id": "IICJ", "t": "20210617230649", "type": "start", "data": {"pos": 339784}}
+{"id": "ZUXX", "t": "20210617230649", "type": "stop", "data": {"pos": 594615, "reason": "U"}}
+{"id": "IVJQ", "t": "20210617230649", "type": "mark", "data": {"pos": 721502, "color": 15}}
+{"id": "GZFT", "t": "20210617230649", "type": "start", "data": {"pos": 297718}}
+{"id": "AGTD", "t": "20210617230649", "type": "stop", "data": {"pos": 54974, "reason": "X"}}
+{"id": "WWBW", "t": "20210617230649", "type": "mark", "data": {"pos": 818325, "color": 9}}
+{"id": "LLJU", "t": "20210617230649", "type": "start", "data": {"pos": 784979}}
+{"id": "BKVC", "t": "20210617230649", "type": "stop", "data": {"pos": 809324, "reason": "H"}}
+{"id": "DDCM", "t": "20210617230649", "type": "mark", "data": {"pos": 211010, "color": 12}}
+{"id": "RVEC", "t": "20210617230649", "type": "start", "data": {"pos": 822475}}
+{"id": "WTRG", "t": "20210617230649", "type": "stop", "data": {"pos": 9696, "reason": "E"}}
+{"id": "ZBWJ", "t": "20210617230649", "type": "mark", "data": {"pos": 309640, "color": 3}}
+{"id": "CEWR", "t": "20210617230649", "type": "start", "data": {"pos": 404249}}
+{"id": "JANY", "t": "20210617230649", "type": "stop", "data": {"pos": 18136, "reason": "Y"}}
+{"id": "RDTD", "t": "20210617230649", "type": "mark", "data": {"pos": 26629, "color": 16}}
+{"id": "MTSD", "t": "20210617230649", "type": "start", "data": {"pos": 955512}}
+{"id": "USKQ", "t": "20210617230649", "type": "stop", "data": {"pos": 34831, "reason": "K"}}
+{"id": "BBAI", "t": "20210617230649", "type": "mark", "data": {"pos": 393919, "color": 9}}
+{"id": "GBKG", "t": "20210617230649", "type": "start", "data": {"pos": 373915}}
+{"id": "PFEA", "t": "20210617230649", "type": "stop", "data": {"pos": 118265, "reason": "S"}}
+{"id": "ZHKD", "t": "20210617230649", "type": "mark", "data": {"pos": 137119, "color": 3}}
+{"id": "DPJL", "t": "20210617230649", "type": "start", "data": {"pos": 58696}}
+{"id": "MJMY", "t": "20210617230649", "type": "stop", "data": {"pos": 148374, "reason": "C"}}
+{"id": "JDXR", "t": "20210617230649", "type": "mark", "data": {"pos": 380192, "color": 12}}
+{"id": "CWXZ", "t": "20210617230649", "type": "start", "data": {"pos": 603859}}
+{"id": "OXTS", "t": "20210617230649", "type": "stop", "data": {"pos": 518464, "reason": "N"}}
+{"id": "UKLB", "t": "20210617230649", "type": "mark", "data": {"pos": 514510, "color": 3}}
+{"id": "RSON", "t": "20210617230649", "type": "start", "data": {"pos": 479573}}
+{"id": "HOTK", "t": "20210617230649", "type": "stop", "data": {"pos": 71451, "reason": "Z"}}
+{"id": "MNKS", "t": "20210617230649", "type": "mark", "data": {"pos": 588348, "color": 8}}
+{"id": "LMVQ", "t": "20210617230649", "type": "start", "data": {"pos": 985808}}
+{"id": "IXBW", "t": "20210617230649", "type": "stop", "data": {"pos": 622375, "reason": "E"}}
+{"id": "CYRT", "t": "20210617230649", "type": "mark", "data": {"pos": 67035, "color": 0}}
+{"id": "UKFV", "t": "20210617230649", "type": "start", "data": {"pos": 24530}}
+{"id": "BFJC", "t": "20210617230649", "type": "stop", "data": {"pos": 246121, "reason": "J"}}
+{"id": "NBVN", "t": "20210617230649", "type": "mark", "data": {"pos": 885262, "color": 13}}
+{"id": "OAXN", "t": "20210617230649", "type": "start", "data": {"pos": 34350}}
+{"id": "OJUZ", "t": "20210617230649", "type": "stop", "data": {"pos": 894349, "reason": "N"}}
+{"id": "MBLE", "t": "20210617230649", "type": "mark", "data": {"pos": 208534, "color": 7}}
+{"id": "BMYQ", "t": "20210617230649", "type": "start", "data": {"pos": 194048}}
+{"id": "HKFZ", "t": "20210617230649", "type": "stop", "data": {"pos": 241323, "reason": "Q"}}
+{"id": "ZRLB", "t": "20210617230649", "type": "mark", "data": {"pos": 176481, "color": 14}}
+{"id": "IXPA", "t": "20210617230649", "type": "start", "data": {"pos": 488724}}
+{"id": "OLGZ", "t": "20210617230649", "type": "stop", "data": {"pos": 474280, "reason": "L"}}
+{"id": "DXET", "t": "20210617230649", "type": "mark", "data": {"pos": 168014, "color": 13}}
+{"id": "HHCC", "t": "20210617230649", "type": "start", "data": {"pos": 692581}}
+{"id": "JCRC", "t": "20210617230649", "type": "stop", "data": {"pos": 563067, "reason": "B"}}
+{"id": "XETS", "t": "20210617230649", "type": "mark", "data": {"pos": 756362, "color": 11}}
+{"id": "NVXC", "t": "20210617230649", "type": "start", "data": {"pos": 22988}}
+{"id": "ZCMT", "t": "20210617230649", "type": "stop", "data": {"pos": 632591, "reason": "L"}}
+{"id": "HNCQ", "t": "20210617230649", "type": "mark", "data": {"pos": 535085, "color": 7}}
+{"id": "CFLK", "t": "20210617230649", "type": "start", "data": {"pos": 19303}}
+{"id": "NOTS", "t": "20210617230649", "type": "stop", "data": {"pos": 932866, "reason": "K"}}
+{"id": "RZZI", "t": "20210617230649", "type": "mark", "data": {"pos": 581370, "color": 3}}
+{"id": "ZLQO", "t": "20210617230649", "type": "start", "data": {"pos": 100425}}
+{"id": "WWIC", "t": "20210617230649", "type": "stop", "data": {"pos": 718319, "reason": "M"}}
+{"id": "XGIN", "t": "20210617230649", "type": "mark", "data": {"pos": 518549, "color": 10}}
+{"id": "KXBU", "t": "20210617230649", "type": "start", "data": {"pos": 872283}}
+{"id": "AIUU", "t": "20210617230649", "type": "stop", "data": {"pos": 306389, "reason": "S"}}
+{"id": "HUUJ", "t": "20210617230649", "type": "mark", "data": {"pos": 870699, "color": 4}}
+{"id": "VPZW", "t": "20210617230649", "type": "start", "data": {"pos": 150091}}
+{"id": "KKWO", "t": "20210617230649", "type": "stop", "data": {"pos": 712393, "reason": "B"}}
+{"id": "UAKK", "t": "20210617230649", "type": "mark", "data": {"pos": 848333, "color": 1}}
+{"id": "SUNH", "t": "20210617230649", "type": "start", "data": {"pos": 718515}}
+{"id": "BIOW", "t": "20210617230649", "type": "stop", "data": {"pos": 513436, "reason": "O"}}
+{"id": "HEMO", "t": "20210617230649", "type": "mark", "data": {"pos": 128619, "color": 14}}
+{"id": "OSPB", "t": "20210617230649", "type": "start", "data": {"pos": 295167}}
+{"id": "IWFM", "t": "20210617230649", "type": "stop", "data": {"pos": 357829, "reason": "L"}}
+{"id": "CALK", "t": "20210617230649", "type": "mark", "data": {"pos": 299919, "color": 6}}
+{"id": "FEUC", "t": "20210617230649", "type": "start", "data": {"pos": 689744}}
+{"id": "CKMB", "t": "20210617230649", "type": "stop", "data": {"pos": 918940, "reason": "I"}}
+{"id": "PJUF", "t": "20210617230649", "type": "mark", "data": {"pos": 865422, "color": 0}}
+{"id": "SIYO", "t": "20210617230649", "type": "start", "data": {"pos": 162931}}
+{"id": "MRZG", "t": "20210617230649", "type": "stop", "data": {"pos": 346054, "reason": "M"}}
+{"id": "INXN", "t": "20210617230649", "type": "mark", "data": {"pos": 531227, "color": 15}}
+{"id": "LHCO", "t": "20210617230649", "type": "start", "data": {"pos": 705316}}
+{"id": "TYAL", "t": "20210617230649", "type": "stop", "data": {"pos": 122700, "reason": "L"}}
+{"id": "HQSY", "t": "20210617230649", "type": "mark", "data": {"pos": 308375, "color": 3}}
+{"id": "ROAM", "t": "20210617230649", "type": "start", "data": {"pos": 571325}}
+{"id": "DKCD", "t": "20210617230649", "type": "stop", "data": {"pos": 482557, "reason": "O"}}
+{"id": "YKLL", "t": "20210617230649", "type": "mark", "data": {"pos": 290304, "color": 0}}
+{"id": "MWKY", "t": "20210617230649", "type": "start", "data": {"pos": 74428}}
+{"id": "KJWU", "t": "20210617230649", "type": "stop", "data": {"pos": 98911, "reason": "E"}}
+{"id": "NFXJ", "t": "20210617230649", "type": "mark", "data": {"pos": 328367, "color": 7}}
+{"id": "ZZHK", "t": "20210617230649", "type": "start", "data": {"pos": 392966}}
+{"id": "HBQN", "t": "20210617230649", "type": "stop", "data": {"pos": 713373, "reason": "O"}}
+{"id": "KHMY", "t": "20210617230649", "type": "mark", "data": {"pos": 204028, "color": 5}}
+{"id": "CZRJ", "t": "20210617230649", "type": "start", "data": {"pos": 812854}}
+{"id": "UUNV", "t": "20210617230649", "type": "stop", "data": {"pos": 681033, "reason": "L"}}
+{"id": "QHGH", "t": "20210617230649", "type": "mark", "data": {"pos": 669162, "color": 12}}
+{"id": "DVUK", "t": "20210617230649", "type": "start", "data": {"pos": 822993}}
+{"id": "VAXE", "t": "20210617230649", "type": "stop", "data": {"pos": 464280, "reason": "H"}}
+{"id": "RCQV", "t": "20210617230649", "type": "mark", "data": {"pos": 700420, "color": 8}}
+{"id": "NRLD", "t": "20210617230649", "type": "start", "data": {"pos": 496341}}
+{"id": "WXRW", "t": "20210617230649", "type": "stop", "data": {"pos": 312420, "reason": "D"}}
+{"id": "OWST", "t": "20210617230649", "type": "mark", "data": {"pos": 321781, "color": 13}}
+{"id": "ABWG", "t": "20210617230649", "type": "start", "data": {"pos": 381334}}
+{"id": "NJGO", "t": "20210617230649", "type": "stop", "data": {"pos": 837479, "reason": "N"}}
+{"id": "IZGS", "t": "20210617230649", "type": "mark", "data": {"pos": 258723, "color": 2}}
+{"id": "HGWH", "t": "20210617230649", "type": "start", "data": {"pos": 338503}}
+{"id": "BJVC", "t": "20210617230649", "type": "stop", "data": {"pos": 711280, "reason": "Z"}}
+{"id": "COXH", "t": "20210617230649", "type": "mark", "data": {"pos": 518563, "color": 5}}
+{"id": "DGWW", "t": "20210617230649", "type": "start", "data": {"pos": 804088}}
+{"id": "JVDQ", "t": "20210617230649", "type": "stop", "data": {"pos": 700462, "reason": "Z"}}
+{"id": "XRWO", "t": "20210617230649", "type": "mark", "data": {"pos": 567087, "color": 8}}
+{"id": "AXCM", "t": "20210617230649", "type": "start", "data": {"pos": 871328}}
+{"id": "CEER", "t": "20210617230649", "type": "stop", "data": {"pos": 272244, "reason": "S"}}
+{"id": "XLKV", "t": "20210617230649", "type": "mark", "data": {"pos": 677272, "color": 7}}
+{"id": "UVSR", "t": "20210617230649", "type": "start", "data": {"pos": 299446}}
+{"id": "OCHD", "t": "20210617230649", "type": "stop", "data": {"pos": 777360, "reason": "A"}}
+{"id": "RUDH", "t": "20210617230649", "type": "mark", "data": {"pos": 545686, "color": 15}}
+{"id": "XLFH", "t": "20210617230649", "type": "start", "data": {"pos": 992384}}
+{"id": "AQAN", "t": "20210617230649", "type": "stop", "data": {"pos": 308637, "reason": "Q"}}
+{"id": "HEUK", "t": "20210617230649", "type": "mark", "data": {"pos": 864347, "color": 6}}
+{"id": "RGYH", "t": "20210617230649", "type": "start", "data": {"pos": 533274}}
+{"id": "ZKAF", "t": "20210617230649", "type": "stop", "data": {"pos": 524076, "reason": "F"}}
+{"id": "QXNN", "t": "20210617230649", "type": "mark", "data": {"pos": 467582, "color": 16}}
+{"id": "GPGX", "t": "20210617230649", "type": "start", "data": {"pos": 91539}}
+{"id": "DGTS", "t": "20210617230649", "type": "stop", "data": {"pos": 693441, "reason": "X"}}
+{"id": "IERT", "t": "20210617230649", "type": "mark", "data": {"pos": 344054, "color": 8}}
+{"id": "MHEI", "t": "20210617230649", "type": "start", "data": {"pos": 358063}}
+{"id": "TEBG", "t": "20210617230649", "type": "stop", "data": {"pos": 390052, "reason": "U"}}
+{"id": "ZEBN", "t": "20210617230649", "type": "mark", "data": {"pos": 552660, "color": 16}}
+{"id": "IJFP", "t": "20210617230649", "type": "start", "data": {"pos": 673004}}
+{"id": "UZUL", "t": "20210617230649", "type": "stop", "data": {"pos": 724236, "reason": "P"}}
+{"id": "NODA", "t": "20210617230649", "type": "mark", "data": {"pos": 149038, "color": 10}}
+{"id": "BFAU", "t": "20210617230649", "type": "start", "data": {"pos": 396782}}
+{"id": "TYUV", "t": "20210617230649", "type": "stop", "data": {"pos": 494492, "reason": "H"}}
+{"id": "UEMJ", "t": "20210617230649", "type": "mark", "data": {"pos": 585184, "color": 4}}
+{"id": "XDVI", "t": "20210617230649", "type": "start", "data": {"pos": 97835}}
+{"id": "YLKH", "t": "20210617230649", "type": "stop", "data": {"pos": 12549, "reason": "B"}}
+{"id": "KKRJ", "t": "20210617230649", "type": "mark", "data": {"pos": 797561, "color": 16}}
+{"id": "QYGD", "t": "20210617230649", "type": "start", "data": {"pos": 620254}}
+{"id": "QLAG", "t": "20210617230649", "type": "stop", "data": {"pos": 880758, "reason": "I"}}
+{"id": "RVCW", "t": "20210617230649", "type": "mark", "data": {"pos": 909220, "color": 5}}
+{"id": "CBXI", "t": "20210617230649", "type": "start", "data": {"pos": 742332}}
+{"id": "MPPS", "t": "20210617230649", "type": "stop", "data": {"pos": 936842, "reason": "E"}}
+{"id": "HQYN", "t": "20210617230649", "type": "mark", "data": {"pos": 18599, "color": 2}}
+{"id": "KMRB", "t": "20210617230649", "type": "start", "data": {"pos": 71742}}
+{"id": "WDQN", "t": "20210617230649", "type": "stop", "data": {"pos": 44367, "reason": "N"}}
+{"id": "AJPL", "t": "20210617230649", "type": "mark", "data": {"pos": 136155, "color": 13}}
+{"id": "EODP", "t": "20210617230649", "type": "start", "data": {"pos": 868496}}
+{"id": "FDTW", "t": "20210617230649", "type": "stop", "data": {"pos": 640463, "reason": "L"}}
+{"id": "HQYI", "t": "20210617230649", "type": "mark", "data": {"pos": 143359, "color": 8}}
+{"id": "SUYA", "t": "20210617230649", "type": "start", "data": {"pos": 141682}}
+{"id": "OLAI", "t": "20210617230649", "type": "stop", "data": {"pos": 236259, "reason": "K"}}
+{"id": "VOTG", "t": "20210617230649", "type": "mark", "data": {"pos": 438424, "color": 7}}
+{"id": "RHPL", "t": "20210617230649", "type": "start", "data": {"pos": 553629}}
+{"id": "BNEV", "t": "20210617230649", "type": "stop", "data": {"pos": 627191, "reason": "E"}}
+{"id": "RAQI", "t": "20210617230649", "type": "mark", "data": {"pos": 857743, "color": 9}}
+{"id": "NRXY", "t": "20210617230649", "type": "start", "data": {"pos": 452190}}
+{"id": "KKZY", "t": "20210617230649", "type": "stop", "data": {"pos": 37382, "reason": "V"}}
+{"id": "ECEG", "t": "20210617230649", "type": "mark", "data": {"pos": 448323, "color": 16}}
+{"id": "TXQG", "t": "20210617230649", "type": "start", "data": {"pos": 207262}}
+{"id": "VGLN", "t": "20210617230649", "type": "stop", "data": {"pos": 287234, "reason": "Q"}}
+{"id": "BFXU", "t": "20210617230649", "type": "mark", "data": {"pos": 664675, "color": 1}}
+{"id": "CFXT", "t": "20210617230649", "type": "start", "data": {"pos": 860878}}
+{"id": "FBZE", "t": "20210617230649", "type": "stop", "data": {"pos": 893504, "reason": "K"}}
+{"id": "NBSI", "t": "20210617230649", "type": "mark", "data": {"pos": 4405, "color": 1}}
+{"id": "ZBXS", "t": "20210617230649", "type": "start", "data": {"pos": 711143}}
+{"id": "IXVK", "t": "20210617230649", "type": "stop", "data": {"pos": 400205, "reason": "J"}}
+{"id": "LLOK", "t": "20210617230649", "type": "mark", "data": {"pos": 793270, "color": 13}}
+{"id": "FGXS", "t": "20210617230649", "type": "start", "data": {"pos": 248354}}
+{"id": "VCCD", "t": "20210617230649", "type": "stop", "data": {"pos": 244334, "reason": "X"}}
+{"id": "NRUQ", "t": "20210617230649", "type": "mark", "data": {"pos": 71500, "color": 6}}
+{"id": "PAVV", "t": "20210617230649", "type": "start", "data": {"pos": 707932}}
+{"id": "JORS", "t": "20210617230649", "type": "stop", "data": {"pos": 71072, "reason": "N"}}
+{"id": "DSRB", "t": "20210617230649", "type": "mark", "data": {"pos": 755931, "color": 11}}
+{"id": "MBML", "t": "20210617230649", "type": "start", "data": {"pos": 313318}}
+{"id": "XCDP", "t": "20210617230649", "type": "stop", "data": {"pos": 604793, "reason": "T"}}
+{"id": "LWEQ", "t": "20210617230649", "type": "mark", "data": {"pos": 99458, "color": 14}}
+{"id": "IKKT", "t": "20210617230649", "type": "start", "data": {"pos": 25907}}
+{"id": "QVRG", "t": "20210617230649", "type": "stop", "data": {"pos": 821016, "reason": "E"}}
+{"id": "RSJV", "t": "20210617230649", "type": "mark", "data": {"pos": 40437, "color": 15}}
+{"id": "BDVN", "t": "20210617230649", "type": "start", "data": {"pos": 232217}}
+{"id": "FLUU", "t": "20210617230649", "type": "stop", "data": {"pos": 941034, "reason": "B"}}
+{"id": "ZLNF", "t": "20210617230649", "type": "mark", "data": {"pos": 34898, "color": 10}}
+{"id": "HHGK", "t": "20210617230649", "type": "start", "data": {"pos": 486118}}
+{"id": "TVZU", "t": "20210617230649", "type": "stop", "data": {"pos": 868447, "reason": "N"}}
+{"id": "VDEG", "t": "20210617230649", "type": "mark", "data": {"pos": 87942, "color": 16}}
+{"id": "UHFF", "t": "20210617230649", "type": "start", "data": {"pos": 991504}}
+{"id": "UOAC", "t": "20210617230649", "type": "stop", "data": {"pos": 733948, "reason": "F"}}
+{"id": "BJZG", "t": "20210617230649", "type": "mark", "data": {"pos": 91624, "color": 12}}
+{"id": "YFUM", "t": "20210617230649", "type": "start", "data": {"pos": 145527}}
+{"id": "CLSX", "t": "20210617230649", "type": "stop", "data": {"pos": 220320, "reason": "Y"}}
+{"id": "LMVK", "t": "20210617230649", "type": "mark", "data": {"pos": 471835, "color": 1}}
+{"id": "ZRYB", "t": "20210617230649", "type": "start", "data": {"pos": 115597}}
+{"id": "YQQU", "t": "20210617230649", "type": "stop", "data": {"pos": 173530, "reason": "I"}}
+{"id": "ZQDW", "t": "20210617230649", "type": "mark", "data": {"pos": 261212, "color": 15}}
+{"id": "USSY", "t": "20210617230649", "type": "start", "data": {"pos": 646704}}
+{"id": "WXUP", "t": "20210617230649", "type": "stop", "data": {"pos": 519044, "reason": "J"}}
+{"id": "YSGV", "t": "20210617230649", "type": "mark", "data": {"pos": 839718, "color": 5}}
+{"id": "OKAT", "t": "20210617230649", "type": "start", "data": {"pos": 910274}}
+{"id": "HEUA", "t": "20210617230649", "type": "stop", "data": {"pos": 449988, "reason": "K"}}
+{"id": "WBJX", "t": "20210617230649", "type": "mark", "data": {"pos": 905851, "color": 12}}
+{"id": "CLIQ", "t": "20210617230649", "type": "start", "data": {"pos": 110709}}
+{"id": "GDPX", "t": "20210617230649", "type": "stop", "data": {"pos": 499079, "reason": "V"}}
+{"id": "WMLV", "t": "20210617230649", "type": "mark", "data": {"pos": 120823, "color": 7}}
+{"id": "NCFO", "t": "20210617230649", "type": "start", "data": {"pos": 927841}}
+{"id": "TPNE", "t": "20210617230649", "type": "stop", "data": {"pos": 513275, "reason": "M"}}
+{"id": "NHPO", "t": "20210617230649", "type": "mark", "data": {"pos": 287806, "color": 10}}
+{"id": "YPOC", "t": "20210617230649", "type": "start", "data": {"pos": 939842}}
+{"id": "PMHI", "t": "20210617230649", "type": "stop", "data": {"pos": 569239, "reason": "S"}}
+{"id": "UZNF", "t": "20210617230649", "type": "mark", "data": {"pos": 553186, "color": 6}}
+{"id": "OILY", "t": "20210617230649", "type": "start", "data": {"pos": 16693}}
+{"id": "OVJK", "t": "20210617230649", "type": "stop", "data": {"pos": 412310, "reason": "U"}}
+{"id": "KVTI", "t": "20210617230649", "type": "mark", "data": {"pos": 676649, "color": 0}}
+{"id": "NAYD", "t": "20210617230649", "type": "start", "data": {"pos": 469888}}
+{"id": "NTEF", "t": "20210617230649", "type": "stop", "data": {"pos": 123682, "reason": "U"}}
+{"id": "NAZA", "t": "20210617230649", "type": "mark", "data": {"pos": 528123, "color": 2}}
+{"id": "GKUR", "t": "20210617230649", "type": "start", "data": {"pos": 830106}}
+{"id": "EJFR", "t": "20210617230649", "type": "stop", "data": {"pos": 985867, "reason": "I"}}
+{"id": "MKKV", "t": "20210617230649", "type": "mark", "data": {"pos": 401212, "color": 8}}
+{"id": "HBON", "t": "20210617230649", "type": "start", "data": {"pos": 648434}}
+{"id": "JYIC", "t": "20210617230649", "type": "stop", "data": {"pos": 590798, "reason": "Y"}}
+{"id": "TVQQ", "t": "20210617230649", "type": "mark", "data": {"pos": 212538, "color": 16}}
+{"id": "ODWJ", "t": "20210617230649", "type": "start", "data": {"pos": 971895}}
+{"id": "LTIM", "t": "20210617230649", "type": "stop", "data": {"pos": 750223, "reason": "M"}}
+{"id": "QPJT", "t": "20210617230649", "type": "mark", "data": {"pos": 966946, "color": 7}}
+{"id": "RQZS", "t": "20210617230649", "type": "start", "data": {"pos": 513928}}
+{"id": "XATY", "t": "20210617230649", "type": "stop", "data": {"pos": 81482, "reason": "M"}}
+{"id": "VSVS", "t": "20210617230649", "type": "mark", "data": {"pos": 345169, "color": 13}}
+{"id": "SMRU", "t": "20210617230649", "type": "start", "data": {"pos": 465759}}
+{"id": "EXJK", "t": "20210617230649", "type": "stop", "data": {"pos": 255680, "reason": "W"}}
+{"id": "PLQC", "t": "20210617230649", "type": "mark", "data": {"pos": 798211, "color": 7}}
+{"id": "IDTW", "t": "20210617230649", "type": "start", "data": {"pos": 270868}}
+{"id": "ZYRX", "t": "20210617230649", "type": "stop", "data": {"pos": 263732, "reason": "C"}}
+{"id": "XDDG", "t": "20210617230649", "type": "mark", "data": {"pos": 648704, "color": 5}}
+{"id": "TPHE", "t": "20210617230649", "type": "start", "data": {"pos": 380261}}
+{"id": "YKOY", "t": "20210617230649", "type": "stop", "data": {"pos": 232020, "reason": "E"}}
+{"id": "WIHR", "t": "20210617230649", "type": "mark", "data": {"pos": 318146, "color": 16}}
+{"id": "QNMN", "t": "20210617230649", "type": "start", "data": {"pos": 530983}}
+{"id": "UUVQ", "t": "20210617230649", "type": "stop", "data": {"pos": 480264, "reason": "U"}}
+{"id": "ZBDJ", "t": "20210617230649", "type": "mark", "data": {"pos": 125958, "color": 9}}
+{"id": "TICO", "t": "20210617230649", "type": "start", "data": {"pos": 889225}}
+{"id": "GPXF", "t": "20210617230649", "type": "stop", "data": {"pos": 166605, "reason": "B"}}
+{"id": "YCST", "t": "20210617230649", "type": "mark", "data": {"pos": 691548, "color": 2}}
+{"id": "EFHO", "t": "20210617230649", "type": "start", "data": {"pos": 241617}}
+{"id": "MLMY", "t": "20210617230649", "type": "stop", "data": {"pos": 140025, "reason": "Z"}}
+{"id": "SVJA", "t": "20210617230649", "type": "mark", "data": {"pos": 706295, "color": 0}}
+{"id": "JXJN", "t": "20210617230649", "type": "start", "data": {"pos": 998245}}
+{"id": "MEUZ", "t": "20210617230649", "type": "stop", "data": {"pos": 8671, "reason": "P"}}
+{"id": "SAFZ", "t": "20210617230649", "type": "mark", "data": {"pos": 372370, "color": 9}}
+{"id": "AVAN", "t": "20210617230649", "type": "start", "data": {"pos": 622294}}
+{"id": "UMTP", "t": "20210617230649", "type": "stop", "data": {"pos": 655905, "reason": "S"}}
+{"id": "OCKP", "t": "20210617230649", "type": "mark", "data": {"pos": 438801, "color": 8}}
+{"id": "PPKI", "t": "20210617230649", "type": "start", "data": {"pos": 453082}}
+{"id": "QMTS", "t": "20210617230649", "type": "stop", "data": {"pos": 341749, "reason": "L"}}
+{"id": "COZI", "t": "20210617230649", "type": "mark", "data": {"pos": 743573, "color": 9}}
+{"id": "DYTQ", "t": "20210617230649", "type": "start", "data": {"pos": 561766}}
+{"id": "IQMN", "t": "20210617230649", "type": "stop", "data": {"pos": 166955, "reason": "I"}}
+{"id": "LAMT", "t": "20210617230649", "type": "mark", "data": {"pos": 816489, "color": 5}}
+{"id": "PMJM", "t": "20210617230649", "type": "start", "data": {"pos": 405783}}
+{"id": "ETMS", "t": "20210617230649", "type": "stop", "data": {"pos": 890045, "reason": "D"}}
+{"id": "XFOQ", "t": "20210617230649", "type": "mark", "data": {"pos": 612835, "color": 5}}
+{"id": "ISPJ", "t": "20210617230649", "type": "start", "data": {"pos": 723449}}
+{"id": "NXVL", "t": "20210617230649", "type": "stop", "data": {"pos": 386289, "reason": "F"}}
+{"id": "RIIS", "t": "20210617230649", "type": "mark", "data": {"pos": 54681, "color": 12}}
+{"id": "CXXZ", "t": "20210617230649", "type": "start", "data": {"pos": 286690}}
+{"id": "BDNQ", "t": "20210617230649", "type": "stop", "data": {"pos": 17148, "reason": "Z"}}
+{"id": "FBNK", "t": "20210617230649", "type": "mark", "data": {"pos": 986326, "color": 3}}
+{"id": "IJBQ", "t": "20210617230649", "type": "start", "data": {"pos": 14616}}
+{"id": "THGQ", "t": "20210617230649", "type": "stop", "data": {"pos": 799789, "reason": "W"}}
+{"id": "MOOT", "t": "20210617230649", "type": "mark", "data": {"pos": 43751, "color": 10}}
+{"id": "NXQQ", "t": "20210617230649", "type": "start", "data": {"pos": 626313}}
+{"id": "XDAM", "t": "20210617230649", "type": "stop", "data": {"pos": 968172, "reason": "M"}}
+{"id": "TLMI", "t": "20210617230649", "type": "mark", "data": {"pos": 961883, "color": 3}}
+{"id": "NPUL", "t": "20210617230649", "type": "start", "data": {"pos": 96997}}
+{"id": "PWMX", "t": "20210617230649", "type": "stop", "data": {"pos": 839018, "reason": "O"}}
+{"id": "CKDG", "t": "20210617230649", "type": "mark", "data": {"pos": 718323, "color": 10}}
+{"id": "IFLL", "t": "20210617230649", "type": "start", "data": {"pos": 698772}}
+{"id": "QAOJ", "t": "20210617230649", "type": "stop", "data": {"pos": 109524, "reason": "Z"}}
+{"id": "EXSS", "t": "20210617230649", "type": "mark", "data": {"pos": 684410, "color": 2}}
+{"id": "UJZR", "t": "20210617230649", "type": "start", "data": {"pos": 373989}}
+{"id": "TERA", "t": "20210617230649", "type": "stop", "data": {"pos": 978539, "reason": "Z"}}
+{"id": "IEOZ", "t": "20210617230649", "type": "mark", "data": {"pos": 349180, "color": 12}}
+{"id": "RGSF", "t": "20210617230649", "type": "start", "data": {"pos": 317623}}
+{"id": "RTJT", "t": "20210617230649", "type": "stop", "data": {"pos": 29345, "reason": "W"}}
+{"id": "QQDY", "t": "20210617230649", "type": "mark", "data": {"pos": 543720, "color": 2}}
+{"id": "YXTM", "t": "20210617230649", "type": "start", "data": {"pos": 93287}}
+{"id": "XDLO", "t": "20210617230649", "type": "stop", "data": {"pos": 715339, "reason": "P"}}
+{"id": "ZZPZ", "t": "20210617230649", "type": "mark", "data": {"pos": 357230, "color": 1}}
+{"id": "UVOA", "t": "20210617230649", "type": "start", "data": {"pos": 579051}}
+{"id": "UFRI", "t": "20210617230649", "type": "stop", "data": {"pos": 517031, "reason": "T"}}
+{"id": "OAXV", "t": "20210617230649", "type": "mark", "data": {"pos": 759156, "color": 0}}
+{"id": "EDXM", "t": "20210617230649", "type": "start", "data": {"pos": 371046}}
+{"id": "AGIQ", "t": "20210617230649", "type": "stop", "data": {"pos": 158137, "reason": "R"}}
+{"id": "WZXV", "t": "20210617230649", "type": "mark", "data": {"pos": 804506, "color": 0}}
+{"id": "JHIZ", "t": "20210617230649", "type": "start", "data": {"pos": 585819}}
+{"id": "LJGO", "t": "20210617230649", "type": "stop", "data": {"pos": 991488, "reason": "Q"}}
+{"id": "EWDD", "t": "20210617230649", "type": "mark", "data": {"pos": 500666, "color": 11}}
+{"id": "PNIF", "t": "20210617230649", "type": "start", "data": {"pos": 296956}}
+{"id": "PYTJ", "t": "20210617230649", "type": "stop", "data": {"pos": 851490, "reason": "P"}}
+{"id": "OSZZ", "t": "20210617230649", "type": "mark", "data": {"pos": 637815, "color": 9}}
+{"id": "HHSF", "t": "20210617230649", "type": "start", "data": {"pos": 553160}}
+{"id": "ZCVL", "t": "20210617230649", "type": "stop", "data": {"pos": 351103, "reason": "L"}}
+{"id": "WKRB", "t": "20210617230649", "type": "mark", "data": {"pos": 636421, "color": 4}}
+{"id": "JQCQ", "t": "20210617230649", "type": "start", "data": {"pos": 543469}}
+{"id": "NLNI", "t": "20210617230649", "type": "stop", "data": {"pos": 421114, "reason": "O"}}
+{"id": "ZDLL", "t": "20210617230649", "type": "mark", "data": {"pos": 880790, "color": 5}}
+{"id": "JPXF", "t": "20210617230649", "type": "start", "data": {"pos": 378366}}
+{"id": "PHYF", "t": "20210617230649", "type": "stop", "data": {"pos": 125227, "reason": "U"}}
+{"id": "KRMS", "t": "20210617230649", "type": "mark", "data": {"pos": 826186, "color": 12}}
+{"id": "FKTC", "t": "20210617230649", "type": "start", "data": {"pos": 866274}}
+{"id": "WLXY", "t": "20210617230649", "type": "stop", "data": {"pos": 940230, "reason": "H"}}
+{"id": "IQGH", "t": "20210617230649", "type": "mark", "data": {"pos": 135535, "color": 15}}
+{"id": "HQJY", "t": "20210617230649", "type": "start", "data": {"pos": 36287}}
+{"id": "ZIFR", "t": "20210617230649", "type": "stop", "data": {"pos": 708149, "reason": "B"}}
+{"id": "EFWE", "t": "20210617230649", "type": "mark", "data": {"pos": 791486, "color": 5}}
+{"id": "UKEP", "t": "20210617230649", "type": "start", "data": {"pos": 859252}}
+{"id": "EAVO", "t": "20210617230649", "type": "stop", "data": {"pos": 481802, "reason": "Z"}}
+{"id": "YXWC", "t": "20210617230649", "type": "mark", "data": {"pos": 497725, "color": 3}}
+{"id": "DTQI", "t": "20210617230649", "type": "start", "data": {"pos": 249462}}
+{"id": "BYPO", "t": "20210617230649", "type": "stop", "data": {"pos": 580060, "reason": "K"}}
+{"id": "ZRZU", "t": "20210617230649", "type": "mark", "data": {"pos": 958801, "color": 11}}
+{"id": "FJZY", "t": "20210617230649", "type": "start", "data": {"pos": 752163}}
+{"id": "WUUY", "t": "20210617230649", "type": "stop", "data": {"pos": 849851, "reason": "A"}}
+{"id": "PCOH", "t": "20210617230649", "type": "mark", "data": {"pos": 42598, "color": 16}}
+{"id": "IQPX", "t": "20210617230649", "type": "start", "data": {"pos": 985684}}
+{"id": "SKGA", "t": "20210617230649", "type": "stop", "data": {"pos": 27469, "reason": "J"}}
+{"id": "GNFI", "t": "20210617230649", "type": "mark", "data": {"pos": 33318, "color": 1}}
+{"id": "CNTN", "t": "20210617230649", "type": "start", "data": {"pos": 919548}}
+{"id": "QFEL", "t": "20210617230649", "type": "stop", "data": {"pos": 302566, "reason": "G"}}
+{"id": "CIUI", "t": "20210617230649", "type": "mark", "data": {"pos": 164889, "color": 9}}
+{"id": "LBHX", "t": "20210617230649", "type": "start", "data": {"pos": 468759}}
+{"id": "XAEL", "t": "20210617230649", "type": "stop", "data": {"pos": 853392, "reason": "V"}}
+{"id": "NPRG", "t": "20210617230649", "type": "mark", "data": {"pos": 340585, "color": 13}}
+{"id": "CITG", "t": "20210617230649", "type": "start", "data": {"pos": 726433}}
+{"id": "SWXI", "t": "20210617230649", "type": "stop", "data": {"pos": 106613, "reason": "J"}}
+{"id": "ZICT", "t": "20210617230649", "type": "mark", "data": {"pos": 142947, "color": 9}}
+{"id": "YBBR", "t": "20210617230649", "type": "start", "data": {"pos": 895471}}
+{"id": "SOGO", "t": "20210617230649", "type": "stop", "data": {"pos": 933952, "reason": "U"}}
+{"id": "DRJT", "t": "20210617230649", "type": "mark", "data": {"pos": 117627, "color": 6}}
+{"id": "JNYZ", "t": "20210617230649", "type": "start", "data": {"pos": 989430}}
+{"id": "JOIU", "t": "20210617230649", "type": "stop", "data": {"pos": 988910, "reason": "M"}}
+{"id": "SPCC", "t": "20210617230649", "type": "mark", "data": {"pos": 522771, "color": 0}}
+{"id": "QAXN", "t": "20210617230649", "type": "start", "data": {"pos": 168434}}
+{"id": "GCMD", "t": "20210617230649", "type": "stop", "data": {"pos": 683487, "reason": "N"}}
+{"id": "JKDM", "t": "20210617230649", "type": "mark", "data": {"pos": 663855, "color": 2}}
+{"id": "EAQG", "t": "20210617230649", "type": "start", "data": {"pos": 220852}}
+{"id": "ESOS", "t": "20210617230649", "type": "stop", "data": {"pos": 938698, "reason": "W"}}
+{"id": "KOCU", "t": "20210617230649", "type": "mark", "data": {"pos": 708994, "color": 1}}
+{"id": "WPIW", "t": "20210617230649", "type": "start", "data": {"pos": 470317}}
+{"id": "TQPM", "t": "20210617230649", "type": "stop", "data": {"pos": 700041, "reason": "O"}}
+{"id": "PQUR", "t": "20210617230649", "type": "mark", "data": {"pos": 368464, "color": 2}}
+{"id": "LDIE", "t": "20210617230649", "type": "start", "data": {"pos": 514715}}
+{"id": "ILZW", "t": "20210617230649", "type": "stop", "data": {"pos": 133506, "reason": "W"}}
+{"id": "MMHT", "t": "20210617230649", "type": "mark", "data": {"pos": 753767, "color": 12}}
+{"id": "BVMY", "t": "20210617230649", "type": "start", "data": {"pos": 877837}}
