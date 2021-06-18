@@ -2,12 +2,10 @@
 package pwnam
 
 /*
-#cgo LDFLAGS: -lpcap
-#include <sys/types.h>
 #include <pwd.h>
 #include <stdlib.h>
 */
-import "C" // "could not determine kind of name for" if there's an empty line above
+import "C" // could not determine kind of name for if there's an empty line above
 
 import "unsafe"
 

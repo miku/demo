@@ -25,4 +25,5 @@ func initializeBar() *extra.Bar {
 func main() {
 	bar := initializeBar()
 	log.Printf("bar: %#v", bar)
+	log.Println("DI example")
 }
