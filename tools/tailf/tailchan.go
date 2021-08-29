@@ -8,6 +8,7 @@ import (
 	"log"
 	"os"
 	"sync"
+	"time"
 )
 
 func main() {
@@ -23,6 +24,10 @@ func main() {
 			log.Fatal(err)
 		}
 		defer f.Close()
+		if _, err := f.Seek(0, io.SeekEnd); err != nil {
+			log.Fatal(err)
+		}
+		r = f
 	}
 	reader := func() {
 		defer wg.Done()
@@ -30,7 +35,8 @@ func main() {
 		for {
 			line, err := br.ReadString('\n')
 			if err == io.EOF {
-				break
+				time.Sleep(10 * time.Millisecond)
+				continue
 			}
 			if err != nil {
 				log.Printf("read failed: %v", err)
