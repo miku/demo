@@ -26,9 +26,23 @@ func SumFloats(m map[string]float64) float64 {
 	return s
 }
 
+type Number interface {
+	int64 | float64
+}
+
 // SumIntsOrFloats uses type parameters, which define contraints:
 // https://go.dev/ref/spec#Predeclared_identifiers, "comparable", "any"
 func SumIntsOrFloats[K comparable, V int64 | float64](m map[K]V) V {
+	var s V
+	for _, v := range m {
+		s += v
+	}
+	return s
+}
+
+// SumIntsOrFloats uses type parameters, which define contraints:
+// https://go.dev/ref/spec#Predeclared_identifiers, "comparable", "any"
+func SumIntsOrFloatsImproved[K comparable, V Number](m map[K]V) V {
 	var s V
 	for _, v := range m {
 		s += v
@@ -58,7 +72,12 @@ func main() {
 		SumIntsOrFloats[string, float64](floats))
 
 	// Here, this would work, too.
-	fmt.Printf("Generic Sums: %v and %v\n",
+	fmt.Printf("Generic Sums (type inference): %v and %v\n",
 		SumIntsOrFloats(ints),
 		SumIntsOrFloats(floats))
+
+	// Here, this would work, too.
+	fmt.Printf("Generic Sums (type interface, custom constraint): %v and %v\n",
+		SumIntsOrFloatsImproved(ints),
+		SumIntsOrFloatsImproved(floats))
 }
